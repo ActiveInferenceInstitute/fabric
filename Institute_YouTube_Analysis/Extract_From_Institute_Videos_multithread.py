@@ -40,7 +40,7 @@ patterns = [
     "get_wow_per_minute",
     "summarize_legislation",
     "to_flashcards",
-    "transcribe_minutes"
+    "transcribe_minutes", 
     "capture_thinkers_work"
 ]
 
@@ -97,53 +97,6 @@ def get_video_metadata(url):
             else:
                 return {"status": "error", "message": str(e)}
 
-def download_audio_and_video(url, output_path, download_audio, download_video):
-    url = convert_youtube_url(url)
-    audio_filename = None
-    video_filename = None
-
-    if download_audio:
-        # Download audio
-        ydl_opts_audio = {
-            'format': 'bestaudio/best',
-            'postprocessors': [{
-                'key': 'FFmpegExtractAudio',
-                'preferredcodec': 'mp3',
-                'preferredquality': '192',
-            }],
-            'outtmpl': os.path.join(output_path, '%(title)s.%(ext)s'),
-        }
-        with yt_dlp.YoutubeDL(ydl_opts_audio) as ydl:
-            info_dict = ydl.extract_info(url, download=True)
-            audio_filename = ydl.prepare_filename(info_dict).rsplit('.', 1)[0] + '.mp3'
-        
-        # Ensure audio is in MP3 format
-        if not os.path.exists(audio_filename):
-            log_message(f"Converting audio to MP3: {audio_filename}")
-            subprocess.run(['ffmpeg', '-i', audio_filename.rsplit('.', 1)[0] + '.webm', 
-                            '-acodec', 'libmp3lame', '-b:a', '192k', audio_filename])
-
-    if download_video:
-        # Download video (medium quality)
-        ydl_opts_video = {
-            'format': 'bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]/best[height<=720]',
-            'outtmpl': os.path.join(output_path, '%(title)s_medium_quality.%(ext)s'),
-        }
-        with yt_dlp.YoutubeDL(ydl_opts_video) as ydl:
-            info_dict = ydl.extract_info(url, download=True)
-            video_filename = ydl.prepare_filename(info_dict)
-        
-        # Ensure video is in MP4 format
-        if not video_filename.endswith('.mp4'):
-            new_video_filename = video_filename.rsplit('.', 1)[0] + '.mp4'
-            log_message(f"Converting video to MP4: {new_video_filename}")
-            subprocess.run(['ffmpeg', '-i', video_filename, '-c:v', 'libx264', '-crf', '23', 
-                            '-c:a', 'aac', '-b:a', '128k', new_video_filename])
-            os.remove(video_filename)
-            video_filename = new_video_filename
-    
-    return audio_filename, video_filename
-
 def save_transcript(video_url, output_file):
     video_url = convert_youtube_url(video_url)
     try:
@@ -161,7 +114,7 @@ def save_transcript(video_url, output_file):
             f.write(f"Error saving transcript: {e}\n\nError details:\n{e.stderr}")
         log_message(f"Error details saved to: {error_file}")
 
-def process_video(entry, download_audio, download_video):
+def process_video(entry):
     url = convert_youtube_url(entry['YouTube'].strip())
     series = entry['Series'].strip()
     unique_event_name = entry['Unique event name'].strip()
@@ -188,18 +141,6 @@ def process_video(entry, download_audio, download_video):
     with open(os.path.join(output_path, "metadata.json"), "w") as f:
         json.dump(metadata, f, indent=2)
     log_message(f"Metadata saved to: {output_path}/metadata.json")
-    
-    # Download audio and video if flags are set
-    if download_audio or download_video:
-        try:
-            log_message(f"Downloading {'audio' if download_audio else ''} {'and' if download_audio and download_video else ''} {'video' if download_video else ''} for {unique_event_name}")
-            audio_file, video_file = download_audio_and_video(url, output_path, download_audio, download_video)
-            if audio_file:
-                log_message(f"Audio downloaded to: {audio_file}")
-            if video_file:
-                log_message(f"Video downloaded to: {video_file}")
-        except Exception as e:
-            log_message(f"Error downloading audio/video for {unique_event_name}: {e}")
     
     # Save transcript
     transcript_file = os.path.join(output_path, "transcript.md")
@@ -228,16 +169,16 @@ def process_video(entry, download_audio, download_video):
     log_message(f"Finished processing video: {unique_event_name}")
     print("----------------------------------------")
 
-def main(download_audio, download_video):
+def main():
     # Read YouTube URLs and metadata from CSV
     with open('All_Institute_Videos.csv', 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         entries = list(reader)
 
     # Use ThreadPoolExecutor to process videos in parallel
-    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         # Submit tasks to the executor
-        futures = [executor.submit(process_video, entry, download_audio, download_video) for entry in entries]
+        futures = [executor.submit(process_video, entry) for entry in entries]
         
         # Wait for all tasks to complete
         concurrent.futures.wait(futures)
@@ -245,9 +186,4 @@ def main(download_audio, download_video):
     log_message("Processing complete. All outputs saved in the 'output' folder.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process YouTube videos with fabric patterns and optionally download audio/video.")
-    parser.add_argument("--download-audio", action="store_true", help="Download audio from the YouTube videos")
-    parser.add_argument("--download-video", action="store_true", help="Download video from the YouTube videos")
-    args = parser.parse_args()
-
-    main(args.download_audio, args.download_video)
+    main()

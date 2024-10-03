@@ -1,0 +1,11 @@
+{
+  "title": "Active Inference ModelStream 007.2 ~ pymdp",
+  "upload_date": "20230119",
+  "duration": 7720,
+  "view_count": 962,
+  "like_count": 19,
+  "channel": "Active Inference Institute",
+  "description": "pymdp\nPython package for simulating active inference agents\nhttps://pymdp-rtd.readthedocs.io/en/latest/\npymdp: A Python library for active inference in discrete state spaces\nhttps://arxiv.org/abs/2201.03904\nConor Heins & Daphne Demekas \n\nNotebook used in the video:\nhttps://colab.research.google.com/drive/1TQjRhCBHPeZd9vTktlp5sx00GeQEjZHf?usp=sharing\n\nSee #007.1 https://youtube.com/live/skf3sOM-7WI\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

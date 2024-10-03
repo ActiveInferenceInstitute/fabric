@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream #032.1 ~ Adam Pease \"A Neuro-Symbolic Approach to Language Understanding\"",
+  "upload_date": "20230111",
+  "duration": 6462,
+  "view_count": 182,
+  "like_count": 14,
+  "channel": "Active Inference Institute",
+  "description": "A Neuro-Symbolic Approach to Language Understanding: Using an Ontology to Create A Language Model\nAdam Pease\nhttps://www.adampease.org/\nhttps://www.ontologyportal.org/\nAdam's YouTube channel: https://www.youtube.com/channel/UCVyCle22zz5gZjWvNWCBq9Q \n\nFormal linguistic semantics has a long tradition of using logic as a way\nto capture the objective semantics of language.  We know an\ninterpretation is wrong if apparently consistent sets of sentences yield\na contradiction when a deterministic method is applied.  But creating\nthose models has been largely limited to academic works in which a\ntheory is embodied in rules on paper.  Computational models, in\ncontrast, have had very shallow or approximate interpretations of\nsemantics.\n\nIn this current work, I describe how to generate a very large set\n(1TB or larger) set of language-logic pairs that is then used to train a\nneural-network based language model.  Because the sentences are created\nsynthetically, we can use a representation that can also generate a\nconsistent logical interpretation of the sentence automatically.\nBecause this model uses the Suggested Upper Merged Ontology (SUMO), tens\nof thousands of concepts are used.  Because SUMO uses a higher order\nlogic, we can generate sentences far more interesting than can be\ncaptured in simple triples.  We can use quantifiers, modals, epistemic\nand teleological operators and arbitrary levels of embedded clauses.\nBecause SUMO has been mapped to all of the WordNet lexicon, we can also\nfreely include synonyms for all concepts, if they exist.  This leads to\na data set that can cover a diverse and interesting subset of English.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 052.1 ~ A ElSaid, T Desell, A Ororbia \"Ant-Based Neural Topology Search\"",
+  "upload_date": "20230811",
+  "duration": 7015,
+  "view_count": 126,
+  "like_count": 9,
+  "channel": "Active Inference Institute",
+  "description": "\"Backpropagation-Free 4D Continuous Ant-Based Neural Topology Search\"\nAbdElRahman ElSaid, Karl Ricanek, Zeming Lyu, Alexander Ororbia, Travis Desell\nhttps://arxiv.org/abs/2305.06715\n\nContinuous Ant-based Topology Search (CANTS) is a previously introduced novel nature-inspired neural architecture search (NAS) algorithm that is based on ant colony optimization (ACO). CANTS utilizes a continuous search space to indirectly-encode a neural architecture search space. Synthetic ant agents explore CANTS' continuous search space based on the density and distribution of pheromones, strongly inspired by how ants move in the real world. This continuous search space allows CANTS to automate the design of artificial neural networks (ANNs) of any size, removing a key limitation inherent to many current NAS algorithms that must operate within structures of a size that is predetermined by the user. This work expands CANTS by adding a fourth dimension to its search space representing potential neural synaptic weights. Adding this extra dimension allows CANTS agents to optimize both the architecture as well as the weights of an ANN without applying backpropagation (BP), which leads to a significant reduction in the time consumed in the optimization process. The experiments of this study - using real-world data - demonstrate that the BP-Free~CANTS algorithm exhibits highly competitive performance compared to both CANTS and ANTS while requiring significantly less operation time.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}
