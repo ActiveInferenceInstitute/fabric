@@ -1,0 +1,11 @@
+{
+  "title": "ActInf MorphStream 003.1 ~ Anand Subramoney \"Principles of scalability and biological inspirations\"",
+  "upload_date": "20240301",
+  "duration": 3689,
+  "view_count": 246,
+  "like_count": 12,
+  "channel": "Active Inference Institute",
+  "description": "Anand Subramoney\nPrinciples of scalability and biological inspirations\"\n\nIn the talk I will discuss how current models scale and what we can learn from the efficiency of biological brains. One of the central themes will be sparsity, its significant role in scalable systems and its synergies with neuromorphic hardware. I will present existing ideas based on spiking neural networks and recent work from my group focussed on using various forms of sparsity and distributed learning to improve the scalability and efficiency of our learning models.\n\nAnand Subramoney is a Lecturer (Assistant Professor) in the Department of Computer Science at Royal Holloway, University of London. He is broadly interested in learning and intelligence, both algorithmic and biological. His current research focuses on understanding the principles of scalability in deep learning. He aims to use this to build models that are more efficient and can scale up seamlessly. His research draws inspiration from neuroscience and biology in his quest to build a better and more general artificial intelligence. Website: https://anandsubramoney.com/\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "not_live"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "ActInf MathStream #006.1 ~ Sean Tull \"Active Inference in String Diagrams\"",
+  "upload_date": "20230902",
+  "duration": 5255,
+  "view_count": 313,
+  "like_count": 20,
+  "channel": "Active Inference Institute",
+  "description": "\"Active Inference in String Diagrams\"\nSean Tull (Quantinuum) \n\nAssociated paper: \nhttps://arxiv.org/abs/2308.00861 \n\"Active Inference in String Diagrams: A Categorical Account of Predictive Processing and Free Energy\"\nSean Tull, Johannes Kleiner, Toby St Clere Smithe\n\n\nAbstract: \nI will present a new formalisation of predictive processing and active inference in terms of category theory and its associated graphical language of 'string diagrams'. These diagrams provide a rigorous but intuitive way to reason compositionally about probabilistic (and more general) processes that have been applied in many settings. After introducing categories and string diagrams, I will show one can use them to both describe and reason about the main features of active inference: generative models, Bayesian updating (including with soft observations), Free Energy, perception, planning, and the process of active inference itself. A highlight is a straightforward diagrammatic derivation of the formula for active inference in terms of variational and expected free energy.  This is joint work with Johannes Kleiner and Toby St Clere Smithe. \n\nMore links for Sean Tull:\nhttps://www.seantull.uk/\nhttps://scholar.google.com/citations?user=GZzbRokAAAAJ&hl=en\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

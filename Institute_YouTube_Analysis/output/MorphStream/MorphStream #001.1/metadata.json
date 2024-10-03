@@ -1,0 +1,11 @@
+{
+  "title": "ActInf MorphStream 001.1 ~ David Kappel and Sarah Hamburg",
+  "upload_date": "20230927",
+  "duration": 4160,
+  "view_count": 336,
+  "like_count": 18,
+  "channel": "Active Inference Institute",
+  "description": "A free energy model to uncover the role of noise in the brain\nSynapses in the brain are highly noisy, resulting in large trial-by-trial variability in post-synaptic currents (PSCs). Considering how costly synapses are in terms of energy consumption, this high level of noise is surprising. We establish the role of the experimentally found high levels of PSC noise in encoding uncertainties about post-synaptic activity and in efficiently exploiting the sparse information provided by back-propagating action potentials.  Furthermore, we show how synaptic release noise can be used as a computational resource to probe the behavior of the post-synaptic neuron. To arrive at our results, we applied the Free Energy Principle (FEP) - a mathematical framework for describing the behavior of organisms and neural networks - for the first time to the level of individual synapses that communicate with the soma of the post-synaptic neuron.  In recent years, a growing number of studies have shown that the FEP can explain brain activity at different spatial and temporal scales. In this study, we address arguably the lowest level by considering the interaction of individual synapses with their environment. Using this approach, we derive from first principles a synaptic learning rule that resembles experimentally well-established plasticity mechanisms and make precise predictions for future experiments. In addition, our synaptic FEP model allows us to show how neural systems exploit the unreliability of synaptic release to cope with behaviorally ambiguous situations.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

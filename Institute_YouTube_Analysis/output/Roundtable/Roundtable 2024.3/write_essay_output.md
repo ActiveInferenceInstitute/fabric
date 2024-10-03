@@ -1,0 +1,15 @@
+Active inference is a complex concept, but at its core, it’s about understanding how we make sense of the world and how we adapt our actions based on that understanding. The quarterly Roundtable at the Active Inference Institute serves as a platform to explore this concept further, connecting various projects and ideas within the active inference community.
+
+Today’s discussion was full of updates and insights. We’re nearing the end of 2024, and it’s exciting to see how our projects have evolved. We’ve been busy with an ecosystem paper, which is essentially a living document that outlines our collaborative efforts. This is not just a static report; it’s a dynamic piece that will grow and adapt as we engage with it. The focus is on collaboration, and we’re inviting everyone to contribute. The idea is simple: everyone can add their insights, make suggestions, and help shape the document. This collaborative spirit is what makes our community vibrant.
+
+The excitement doesn’t stop there. We’re gearing up for the fourth Applied Active Inference Symposium in November. This event will be an opportunity for all of us to share our experiences and learn from one another. We’ll have presentations covering a range of topics, from theoretical advancements to practical applications. The goal is to bridge the gap between theory and practice, ensuring that what we learn can be applied in real-world scenarios.
+
+It’s clear that our community is growing. We have research fellows actively contributing to various projects, and we’re continuously seeking new partnerships to expand our reach. Collaboration is key, whether it’s through research, funding, or simply sharing ideas. The more we connect with others, the more we can achieve.
+
+One of the highlights of our discussion was the emphasis on the importance of learning through projects. This hands-on approach allows us to explore ideas in a way that’s much richer than traditional learning methods. It’s about engaging with the material, asking questions, and experimenting. This is where true understanding happens.
+
+As we look ahead, there’s a sense of optimism. The landscape of active inference is evolving rapidly, and we’re at the forefront of it. With each passing month, we’re uncovering new insights and making strides in our understanding. The enthusiasm in the room is palpable, and it’s clear that we’re all committed to pushing the boundaries of what’s possible.
+
+For those who are interested in joining us, there are many ways to get involved. Whether you want to contribute to the ecosystem paper, participate in the symposium, or simply engage with our community, there’s a place for you here. The journey of active inference is one that we can all embark on together, learning from each other and growing as we go.
+
+In the end, it’s all about the connections we make and the knowledge we share. The active inference community is a tapestry of diverse perspectives, and it’s this diversity that enriches our discussions and drives our projects forward. So, let’s keep the conversation going, explore new ideas, and see where this journey takes us.

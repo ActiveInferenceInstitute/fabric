@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 075.1 ~ Matsumura et al.: \"Active Inference With Empathy Mechanism\"",
+  "upload_date": "20240314",
+  "duration": 2868,
+  "view_count": 183,
+  "like_count": 8,
+  "channel": "Active Inference Institute",
+  "description": "Active Inference With Empathy Mechanism for Socially Behaved Artificial Agents in Diverse Situations\nTadayuki Matsumura, Hiroyuki Mizuno, Kanako Esaki\n\u677e\u6751\u5fe0\u5e78, \u6c34\u91ce\u5f18\u4e4b, \u6c5f\ufa11\u4f73\u5948\u5b50\n\nhttps://direct.mit.edu/artl/article/doi/10.1162/artl_a_00416/118224/Active-Inference-With-Empathy-Mechanism-for\nThis article proposes a method for an artificial agent to behave in a social manner. Although defining proper social behavior is difficult because it differs from situation to situation, the agent following the proposed method adaptively behaves appropriately in each situation by empathizing with the surrounding others. The proposed method is achieved by incorporating empathy into active inference. We evaluated the proposed method regarding control of autonomous mobile robots in diverse situations. From the evaluation results, an agent controlled by the proposed method could behave more adaptively socially than an agent controlled by the standard active inference in the diverse situations. In the case of two agents, the agent controlled with the proposed method behaved in a social way that reduced the other agent\u2019s travel distance by 13.7% and increased the margin between the agents by 25.8%, even though it increased the agent\u2019s travel distance by 8.2%. Also, the agent controlled with the proposed method behaved more socially when it was surrounded by altruistic others but less socially when it was surrounded by selfish others.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

@@ -1,42 +1,32 @@
 ---
-Subject: Active Inference Institute Updates and Developments
-* Learning objective: Understanding the purpose and structure of the Active Inference Institute.
-    - Question 1: How does the Active Inference Institute's collaborative approach enhance the development of its projects and ecosystem?
+Subject: Applied Active Inference Institute and Ecosystem Development
+* Learning objective: Understanding the collaborative processes and project developments at the Institute.
+    - Question 1: How does the Institute facilitate contributions from both new and seasoned participants in the ecosystem paper versioning process, and what are the expected outcomes of this collaborative effort?
     - Answer 1: 
 
-    - Question 2: In what ways does the concept of "versioning" contribute to the evolution of the ecosystem paper within the Institute?
+    - Question 2: Discuss the significance of the upcoming applied active inference Symposium and how it aims to bridge theory and real-world applications in active inference.
     - Answer 2: 
 
-    - Question 3: Describe the significance of the role of research fellows in advancing the goals of the Active Inference Institute.
+    - Question 3: Analyze the role of research fellows within the Institute, including how their projects align with organizational goals and contribute to the overall mission of active inference.
     - Answer 3: 
 
-* Learning objective: Analyzing the implications of the upcoming Symposium on active inference practices.
-    - Question 1: What are the key themes expected to be discussed at the upcoming applied active inference Symposium, and why are they relevant to current research?
+* Learning objective: Evaluating the impact of organizational partnerships on the Institute's initiatives.
+    - Question 1: In what ways do organizational partnerships enhance the activities and strategic goals of the Institute, particularly in relation to funding and resource sharing?
     - Answer 1: 
 
-    - Question 2: How does the inclusion of hackathon sessions at the Symposium facilitate real-world applications of active inference techniques?
+    - Question 2: How do the collaborations with organizations like First Principles influence the research and educational outreach of the Institute?
     - Answer 2: 
 
-    - Question 3: Evaluate the potential impact of having Carl Friston open the Symposium on the community's engagement and understanding of active inference.
+    - Question 3: Assess the implications of restricted donations on project funding and the sustainability of initiatives within the active inference ecosystem.
     - Answer 3: 
 
-* Learning objective: Evaluating the Institute's outreach and partnership strategies.
-    - Question 1: Discuss the importance of organizational partnerships for the Active Inference Institute and how they contribute to its sustainability.
+* Learning objective: Analyzing the evolving methodologies and frameworks utilized in active inference projects.
+    - Question 1: Examine the methodological advancements introduced in the recent cohorts of the textbook group and their implications for future educational frameworks in active inference.
     - Answer 1: 
 
-    - Question 2: What strategies could the Institute implement to attract more organizational partners and enhance collaboration?
+    - Question 2: How are generative AI and natural language processing being integrated into active inference projects, and what potential do they hold for enhancing knowledge dissemination?
     - Answer 2: 
 
-    - Question 3: How does the structure of the philanthropy program reflect the Institute's overall goals and mission?
-    - Answer 3: 
-
-* Learning objective: Assessing the developments in active inference projects and their outcomes.
-    - Question 1: Analyze the implications of the recent projects like the ontology project and audiovisual production on the broader understanding of active inference.
-    - Answer 1: 
-
-    - Question 2: How does the integration of generative AI in project development reflect the current trends in research and application within the Institute?
-    - Answer 2: 
-
-    - Question 3: Critically assess how the feedback mechanisms in project proposals contribute to the continuous improvement of active inference initiatives.
+    - Question 3: Critically evaluate the use of live streams and interactive sessions in the dissemination of knowledge and engagement within the active inference community.
     - Answer 3: 
 ---

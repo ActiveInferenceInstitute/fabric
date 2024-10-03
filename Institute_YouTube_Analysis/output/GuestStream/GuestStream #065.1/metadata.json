@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 065.1 ~ Phoebe Klett, \"Towards Bayesian World Models\"",
+  "upload_date": "20231207",
+  "duration": 3586,
+  "view_count": 626,
+  "like_count": 40,
+  "channel": "Active Inference Institute",
+  "description": "Abstract\nAt Normal Computing, we believe that achieving System-2 thinking in artificial systems will necessarily involve going beyond the auto-regressive language models we all know and love. Leveraging said systems in high-stakes applications will require step changes in explainability and reliability. The foundations of probabilistic machine learning and Bayesian decision theory provide rich tool-kits to augment today\u2019s powerful and unwieldy LLMs. In this talk, we discuss the Bayesian world models we\u2019re developing, highlighting connections to the Free Energy Principle. In particular, we discuss using LLMs as likelihood machines, hierarchical world models from message passing, and using world models as recommendation engines.\n\nNormal Computing: https://normalcomputing.ai/\n\n\u201cWhen it comes to robust reasoning, an Achilles\u2019 heel of current large language models is that the world model and the inference machine are one and the same.\u201d \n- Yoshua Bengio\n[BH23]\n\n\u201cI submit that devising learning paradigms and architectures that would allow machines to learn world models in an unsupervised (or self-supervised) fashion, and to use those models to predict, to reason, and to plan is one of the main challenges of AI and ML today. One major technical hurdle is how to devise trainable world models that can deal with complex uncertainty in the predictions.\u201d \n- Yann LeCun [LeC22]\n\n[BH23] Yoshua Bengio and Edward Hu. Scaling in the service of reasoning model-based ml. 2023.\n[LeC22] Yann LeCun. A path towards autonomous machine intelligence. 2022.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

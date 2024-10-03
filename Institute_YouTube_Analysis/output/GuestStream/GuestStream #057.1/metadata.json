@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 057.1~ Andy Keller, \"Natural Neural Structure in Artificial Neural Networks\"",
+  "upload_date": "20230919",
+  "duration": 4916,
+  "view_count": 263,
+  "like_count": 14,
+  "channel": "Active Inference Institute",
+  "description": "Andy Keller\nhttps://akandykeller.github.io/\n\nAbstract: In this talk, I will discuss a line of work which aims to improve the generalization properties of modern artificial intelligence through the integration of naturally observed neural structure. This will cover natural inductive biases such as topographic organization and traveling waves, and demonstrate how these observed neural properties can be seen to be experimentally related to the machine learning concepts of equivariance, structured representations, and long-term memory. \n\nPapers:\n- Topographic VAEs learn Equivariant Capsules: https://arxiv.org/abs/2109.01394, (video: https://youtube.com/watch?v=8QJmO6u0SwM)\n- Neural Wave Machines:  https://openreview.net/forum?id=5tJSt3kn4s\n- Traveling Waves Encode the Recent Past and Enhance Sequence Learning: https://akandykeller.github.io/papers/wRNN.pdf\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

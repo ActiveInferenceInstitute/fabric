@@ -1,8 +1,10 @@
-- do blue or Alex want to make any comments or say hello?
-- do you want to give any thoughts on this document or how we use it or or anything else about it?
-- is there anything else that either of you would like to add about the Symposium?
-- do you see some perspectives and we as institution will support you in this way?
-- let’s discuss?
-- are there any comments on anything?
-- is there anything else that you’d like to add about the Symposium?
-- do you have any closing thoughts?
+- What would be impactful for the active inference ecosystem to do?
+- What kinds of capacities could it build?
+- What kinds of differences could it make?
+- What would the Institute have to do and be in order to support that?
+- What would we need from a support or participation perspective for how that would come to be?
+- Do you want to give any thoughts on this document or how we use it or anything else about it?
+- Is there anything else that either of you would like to add about the Symposium?
+- Could you share some perspectives on how we should use that experience from that learning on specific textbooks? 
+- How can we share possibly like templates in Koda how to enable or provide some other support for such activities for any others?
+- What would be your closing thoughts?

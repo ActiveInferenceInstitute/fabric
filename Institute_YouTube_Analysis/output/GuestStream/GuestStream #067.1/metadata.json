@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 067.1 ~ Andr\u00e9s Corrada \"The logic of NTQR evaluations of noisy judges\"",
+  "upload_date": "20231208",
+  "duration": 6675,
+  "view_count": 183,
+  "like_count": 9,
+  "channel": "Active Inference Institute",
+  "description": "\"The logic of NTQR evaluations of noisy judges: Complete postulates and logically consistent error correlation\"\nAndr\u00e9s Corrada \ndataengines.com\n\nWhenever we evaluate N judges with T tests that have Q questions with R responses, we can\nbuild complete sets of algebraic postulates connecting frequencies of their aligned decisions to\nstatistics of their correctness in the test. This allows one to build complete theorem provers\nthat can validate the logical consistency (but never soundness) of any grading algorithm that\ndoes not have access to the answer keys for the exams the judges took.\n\nData streaming algorithms like Good-Turing frequency smoothing are introduced to discuss\nthe notions of data sketches, sample statistics of the stream, and representation free\nestimation of unknown or unseen stream statistics.\n\nThe case of binary classification, the (N,T=1,Q,R=2) tests, has been solved exactly using\ntechniques from algebraic geometry. We use the example of binary classification  to highlight how one can strip the\nsemantics from any evaluation in unsupervised settings and just validate the logical\nconsistency of the judges.\n\nA geometric viewpoint of the evaluation of R=2 tests illustrates what can and cannot\nbe achieved by logical consistency tests alone. We compare some evaluations of\ntests on some public datasets to illustrate how the formalism works and how easy it\nis to have near real time computation with it.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 071.1 ~ The empirical status of predictive coding and active inference",
+  "upload_date": "20240223",
+  "duration": 4579,
+  "view_count": 298,
+  "like_count": 20,
+  "channel": "Active Inference Institute",
+  "description": "\"The empirical status of predictive coding and active inference\"\nRowan Hodson, Marishka Mehta, Ryan Smith\nhttps://www.sciencedirect.com/science/article/abs/pii/S0149763423004426\n\nResearch on predictive processing models has focused largely on two specific algorithmic theories: Predictive Coding for perception and Active Inference for decision-making. While these interconnected theories possess broad explanatory potential, they have only recently begun to receive direct empirical evaluation. Here, we review recent studies of Predictive Coding and Active Inference with a focus on evaluating the degree to which they are empirically supported. For Predictive Coding, we find that existing empirical evidence offers modest support. However, some positive results can also be explained by alternative feedforward (e.g., feature detection-based) models. For Active Inference, most empirical studies have focused on fitting these models to behavior as a means of identifying and explaining individual or group differences. While Active Inference models tend to explain behavioral data reasonably well, there has not been a focus on testing empirical validity of active inference theory per se, which would require formal comparison to other models (e.g., non-Bayesian or model-free reinforcement learning models). This review suggests that, while promising, a number of specific research directions are still necessary to evaluate the empirical adequacy and explanatory power of these algorithms.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

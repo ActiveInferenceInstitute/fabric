@@ -1,15 +1,13 @@
-- Ecosystem and Institute paper will be versioned over the next six weeks.
-- Fourth applied active inference Symposium scheduled for November 3 to 15, 2024.
-- Research fellows' application review will occur in about two weeks.
-- New visuals for the ecosystem paper will be developed by the end of the year.
-- Collaboration and project updates will increase in the last quarter of 2024.
-- The Institute will explore the application of active inference in real-life scenarios.
+- Ecosystem paper version two will be completed by November 2024.
+- The fourth applied active inference Symposium will occur from November 31 to December 15, 2024.
+- Research fellows applications will be reviewed in about two weeks from October 2024.
+- New visuals for the ecosystem paper will be developed by end of 2024.
+- Active inference applications will become more aligned with real-life scenarios by 2025.
 
-| Prediction                                                                 | Confidence | Date               | How to Verify                                                       |
-|---------------------------------------------------------------------------|------------|--------------------|--------------------------------------------------------------------|
-| Ecosystem and Institute paper will be versioned over the next six weeks. | High       | November 2024      | Check for updates on the ecosystem and Institute paper.           |
-| Fourth applied active inference Symposium scheduled for November 3-15, 2024. | High       | November 3-15, 2024 | Confirm event details on the Symposium page.                     |
-| Research fellows' application review will occur in about two weeks.      | Medium     | Mid-October 2024   | Monitor announcements regarding research fellow applications.      |
-| New visuals for the ecosystem paper will be developed by the end of the year. | Medium     | December 2024      | Review the updated ecosystem paper for new visuals.               |
-| Collaboration and project updates will increase in the last quarter of 2024. | High       | December 2024      | Look for project updates in the Institute's communications.       |
-| The Institute will explore the application of active inference in real-life scenarios. | Medium     | By end of 2024     | Observe discussions and projects related to practical applications. |
+| Prediction                                          | Confidence     | Date                      | How to Verify                                      |
+|----------------------------------------------------|----------------|---------------------------|---------------------------------------------------|
+| Ecosystem paper version two will be completed      | High           | November 2024             | Check for the release of version two of the paper |
+| Fourth applied active inference Symposium will occur| High           | November 31 - December 15, 2024 | Attendance and schedule of the Symposium          |
+| Research fellows applications will be reviewed      | Medium         | Two weeks from October 2024 | Announcement of selected fellows                   |
+| New visuals for the ecosystem paper will be developed | High           | End of 2024               | Review updated document visuals                     |
+| Active inference applications will align with real-life scenarios | Medium         | By 2025                   | Documentation or case studies demonstrating applications |

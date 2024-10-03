@@ -1,21 +1,21 @@
 # ONE SENTENCE SUMMARY:
-The Active Inference Institute discusses updates, projects, and upcoming events while encouraging participation and collaboration in active inference research.
+The quarterly Roundtable discusses updates, projects, and upcoming events for the Active Inference Institute, focusing on collaboration and application.
 
 # MAIN POINTS:
-1. The quarterly Roundtable covers updates and future plans for the Active Inference Institute.
-2. Collaboration on an ecosystem and Institute paper is the main focus for the next six weeks.
-3. The upcoming applied active inference Symposium is scheduled for November 3-15, 2024.
-4. Current research fellows are active, with applications for the next cohort opening soon.
-5. Partnerships with organizations are being developed to support the Institute's goals.
-6. Philanthropic donations are crucial for the sustainability of the Institute's projects.
-7. The Institute has been successful in submitting grants for AI-related projects.
-8. Various active projects are ongoing, including ontology exploration and audiovisual production.
-9. Community engagement is encouraged through Discord and live chats during events.
-10. Future developments in active inference applications are anticipated based on evolving tools and frameworks.
+1. The Active Inference Institute promotes participatory online learning and applied active inference.
+2. Upcoming ecosystem paper aims to clarify relationships within the institute and ecosystem.
+3. The fourth Applied Active Inference Symposium is scheduled for November 3-15, 2024.
+4. Live interactions and hackathon sessions will enhance the Symposium experience.
+5. Research fellows continue to contribute unique projects and applications.
+6. Organizational partnerships are vital for supporting and expanding the institute's initiatives.
+7. Philanthropic support is essential for the sustainability of the institute's operations.
+8. Ongoing projects include ontology exploration, audiovisual production, and textbook development.
+9. Active Inference Institute submitted grants for decentralized AI and multi-agent AI safety.
+10. The community is encouraged to propose new projects and engage with current initiatives.
 
 # TAKEAWAYS:
-1. Participation in projects and discussions is essential for shaping the Institute's future direction.
-2. The upcoming Symposium will feature a blend of presentations, discussions, and hackathon opportunities.
-3. Collaborations with external organizations can enhance resource sharing and project support.
-4. Philanthropy is vital for the ongoing operations and sustainability of the Institute.
-5. The evolving nature of active inference research presents numerous opportunities for innovation and application.
+1. Collaboration is key for developing impactful projects within the Active Inference Institute.
+2. Upcoming Symposium will feature significant presentations and discussions on active inference applications.
+3. Continuous engagement from community members can enhance project outcomes and visibility.
+4. Philanthropic contributions directly support the sustainability and growth of the institute.
+5. The evolving document writing environment facilitates better collaboration and knowledge sharing.

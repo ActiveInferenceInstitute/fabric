@@ -1,9 +1,9 @@
-🚀🌟 Welcome to Quarterly Roundtable #3 at the Active Inference Institute! 🎉 Today, we’re diving into updates, projects, and what’s ahead for 2024. 🌍✨ 
+🌟 Hello and welcome to our Quarterly Roundtable #3! 🌟 It’s October 1st, 2024, and we're excited to share updates from the Active Inference Institute! 🎉
 
-🔍 Explore our ecosystem, engage with our community, and be part of the active inference journey! 🤝💡 
+Join us as we discuss our latest projects, upcoming Symposium in November, and plans for 2025! 🌐✨ 
 
-💬 Feel free to drop your questions in the live chat! Let’s make this an interactive experience! 🎤👥 
+All backgrounds are welcome, so let’s collaborate and grow together! 🤝💡 
 
-📅 Join us as we shape the future together! More info at [insert link]. 
+Stay tuned for insightful discussions and don't forget to share your thoughts in the live chat! 💬👀
 
-#ActiveInference #CommunityEngagement #Innovation 💬🌐
+#ActiveInference #Collaboration #Community #Innovation 🌱
