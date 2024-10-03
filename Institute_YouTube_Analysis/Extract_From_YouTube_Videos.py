@@ -96,8 +96,24 @@ def download_audio_and_video(url, output_path, download_audio, download_video):
                             '-c:a', 'aac', '-b:a', '128k', new_video_filename])
             os.remove(video_filename)
             video_filename = new_video_filename
+        
+        # Extract screenshots every 2 seconds
+        extract_screenshots(video_filename, output_path)
     
     return audio_filename, video_filename
+
+def extract_screenshots(video_file, output_path):
+    screenshot_dir = os.path.join(output_path, "screenshots")
+    os.makedirs(screenshot_dir, exist_ok=True)
+    screenshot_path = os.path.join(screenshot_dir, "screenshot_%03d.png")
+    log_message("Extracting screenshots every 2 seconds")
+    subprocess.run([
+        'ffmpeg',
+        '-i', video_file,
+        '-vf', 'fps=1/2',
+        screenshot_path
+    ], check=True)
+    log_message(f"Screenshots saved to: {screenshot_dir}")
 
 def main(download_audio, download_video):
     # Process each YouTube URL

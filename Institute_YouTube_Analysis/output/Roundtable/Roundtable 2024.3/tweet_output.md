@@ -1,14 +1,9 @@
-🚀✨ Hello and welcome to the Active Inference Institute's Quarterly Roundtable #3! 🌐📅 Today, we’ll dive into updates, project developments, and plans for the last quarter of 2024! 
+🚀🌟 Welcome to Quarterly Roundtable #3 at the Active Inference Institute! 🎉 Today, we’re diving into updates, projects, and what’s ahead for 2024. 🌍✨ 
 
-Join us for engaging discussions and insights from our amazing community! 💬👥 
+🔍 Explore our ecosystem, engage with our community, and be part of the active inference journey! 🤝💡 
 
-🗓️ Key highlights:
-- Collaborating on our ecosystem paper! 📝🌱
-- Upcoming 4th Applied Active Inference Symposium (Nov 3-15) featuring Carl Friston! 🎉👨‍🔬
-- Opportunities for research fellows and organizational partnerships! 🤝🔍
+💬 Feel free to drop your questions in the live chat! Let’s make this an interactive experience! 🎤👥 
 
-💡 Let's explore how we can apply active inference in real-life scenarios and continue to grow our ecosystem together! 🌍💪 
+📅 Join us as we shape the future together! More info at [insert link]. 
 
-Feel free to drop your questions in the chat! 👇💬 
-
-#ActiveInference #Community #Research #Innovation
+#ActiveInference #CommunityEngagement #Innovation 💬🌐

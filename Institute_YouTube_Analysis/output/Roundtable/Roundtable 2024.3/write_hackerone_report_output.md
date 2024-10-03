@@ -1,30 +1,27 @@
 ```
-**Title:** Lack of Input Validation on API Endpoints Leading to Potential Injection Attacks
+**Title:** Vulnerable Endpoint Exposes Sensitive User Data via Lack of Input Validation
 
 ## Summary:
-The application exposes multiple API endpoints that do not properly validate user input, allowing attackers to inject malicious payloads. This vulnerability can potentially lead to SQL Injection, Command Injection, or other types of injection attacks, which could compromise the integrity and security of the application.
+A vulnerability exists in the endpoint `/renderHTML` on `https://site.com` that allows an attacker to exploit a lack of input validation in the `HTMLCode` parameter, leading to the potential for arbitrary JavaScript execution (XSS). This can ultimately allow for the theft of sensitive user data, such as access tokens stored in LocalStorage.
 
 ## Description:
-The API endpoints, particularly `/renderHTML` and others, accept user input without adequate sanitization or validation. For example, the endpoint `/renderHTML?HTMLCode=<h1>XSSHERE` takes the `HTMLCode` parameter and reflects it back in the response without any form of escaping. This lack of input validation allows an attacker to inject arbitrary code into the application.
+The vulnerability is located in the `/renderHTML` endpoint, which accepts an `HTMLCode` parameter. The application reflects the input back to the user without proper validation or sanitization. An attacker can craft a URL that includes malicious JavaScript code in this parameter, which will then be executed in the context of the victim's browser when they visit the URL.
 
-In the case of the `HTMLCode` parameter, an attacker can craft a request such as:
-```
-GET /renderHTML?HTMLCode=<script>alert(1)</script>
-```
-This would result in the script being executed in the context of the user's browser, leading to a Reflected XSS vulnerability. Furthermore, if the application interacts with a database or executes commands based on user input, this vulnerability could escalate to SQL Injection or Command Injection, allowing an attacker to manipulate the database or execute arbitrary commands on the server.
+For example, an attacker can construct a URL like:
+`https://site.com/renderHTML?HTMLCode=<script>alert(document.domain)</script>`
+
+This will result in the following output:
+`<html>Here is your code: <script>alert(document.domain)</script></html>`
+
+If a victim is tricked into clicking this link, the attacker can execute arbitrary JavaScript code in the victim's browser. This can include exfiltrating sensitive data from LocalStorage, such as the `access_token`, which is used for authentication.
 
 ## Steps To Reproduce:
-1. Access the application and log in as a normal user.
-2. Open your web browser's developer tools (F12) to monitor requests.
-3. Send a GET request to the endpoint with the following payload:
-   ```
-   GET /renderHTML?HTMLCode=<script>alert(1)</script>
-   ```
-4. Observe that the script executes in the context of your browser, confirming the presence of XSS vulnerability.
-5. If applicable, attempt similar payloads in other endpoints to test for SQL Injection or Command Injection vulnerabilities.
+1. Log in to the application as a normal user to ensure the `access_token` is stored in LocalStorage.
+2. Visit the crafted URL: `https://site.com/renderHTML?HTMLCode=<script>alert(localStorage.getItem("access_token"))</script>`.
+3. Observe that the alert shows the `access_token`, demonstrating that the attacker has successfully accessed sensitive data.
 
 ## Supporting Material/References:
 
 ## Impact:
-The vulnerability allows for various types of injection attacks, which can lead to serious consequences including data breaches, unauthorized access to user accounts, and manipulation of sensitive data. The ability to execute arbitrary code or commands could allow an attacker to gain full control over the application, potentially leading to a complete compromise of the server or its database. This vulnerability significantly undermines the trust and security of the application and its users.
+This vulnerability poses a significant risk to user security as it allows attackers to execute arbitrary code in the context of the victim's browser. By exploiting this XSS vulnerability, attackers can gain access to sensitive authentication tokens stored in LocalStorage, leading to potential account takeover and unauthorized access to user data and actions within the application.
 ```

@@ -1,5 +1,5 @@
 # MAIN IDEA
-The Active Inference Institute is fostering collaborative learning and development through ongoing projects and symposia.
+The active inference Institute is fostering collaborative projects and discussions to enhance applied active inference.
 
 # MAIN RECOMMENDATION
-Engage with the Active Inference Institute by participating in projects, events, and collaborative discussions.
+Engage in collaborative projects and contribute to discussions for effective learning and development in active inference.
