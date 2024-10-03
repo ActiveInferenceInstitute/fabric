@@ -1,0 +1,7 @@
+Understanding the brain is one of the greatest challenges in science. A dream scenario involves recording every neuron while animals perform complex tasks in their natural environments. But that’s probably far off. Instead, we can leverage brain-like artificial neural networks (ANNs) to glean insights into the brain's workings. However, if we want these models to be genuinely useful, they need to resemble the brain in fundamental ways.
+
+Our work focuses on visual perception, inspired by three key neuroscience principles: perception as inference, rate coding, and predictive coding. The idea is that perception is not merely a passive reception of sensory input; it’s an active process involving prior experiences that shape how we interpret sensory data. For instance, the Ames room illusion shows how our brains can be misled by expectations.
+
+To build a model that captures these nuances, we developed the Poisson Variational Autoencoder (PVA), which integrates these principles. It uses discrete spike counts instead of continuous values, mimicking the way biological neurons communicate. This model also introduces a metabolic cost term, which emerges naturally from the mathematics rather than being imposed externally.
+
+Ultimately, the goal is to create a framework that not only aligns with biological processes but also achieves sample efficiency in representation learning. By drawing from centuries of neuroscience and combining it with modern machine learning, we can design models that more accurately reflect how the brain operates.

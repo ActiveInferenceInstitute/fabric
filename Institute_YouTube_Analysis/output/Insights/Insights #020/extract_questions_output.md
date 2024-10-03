@@ -1,0 +1,26 @@
+QUESTIONS
+- how did the book idea come about?
+- what was it like writing this book?
+- when you say that it’s sort of not there, do you mean that it’s actually not there on a logically speaking?
+- is it the instrumental tool of active inference that is insufficient to give us agency?
+- is it that it’s kind of an illusion, the whole project in the first place?
+- does this rest on some kind of axiomatic presupposition that there is agency and purposiveness embedded within living systems?
+- where can we ground this kind of starting point that there is a difference really between me and a rock, let’s say?
+- is there a viable or reasonable axiom or do you think that that can be sort of demystified, deboned?
+- do you take thingness to be real as well?
+- is there a kind of natural difference of natural kinds that there is something genuinely ontologically different in the universe between causality and constraints?
+- how does constraint therefore fit into active inference?
+- is there anything else that you can imagine if we got a sort of proper grip on or if we said okay this is not just instrumental, it’s a genuine claim about what there is in the universe?
+- is there anything else that came up that you thought at least there’s a question here of whether it’s a map or whether it belongs to the map or the territory?
+- does the deeper Free Will question really feed into your consideration of agency?
+- does the free energy principle solution just to say well just broaden out the Markov blanket?
+- what does the free energy principle say if it’s just a post hoc or ad hoc description?
+- do you think that there’s a point where those preferences ground out or is it philosophically vague as to how recursively that can go?
+- to what degree does your argument that perception is kind of affording action in the sense that it gives us this intermediate level perception that’s grippable and whatever to what degree is that kind of a sa WF account of vision?
+- is there a point at which perception bottoms out?
+- where does that chain stop?
+- how much does affordance and action relativize and permeate perception?
+- is there anything beyond it?
+- do you think that man what does that manifest as in your IDE in this idea is it conscious?
+- is it affect or is it even deeper than affect?
+- is the fact that there is this at least plausible interiority about living things that autonomous or adaptive things does that feed into the minimal phenomenality?

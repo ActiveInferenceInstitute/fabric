@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ModelStream 010.1 ~ Building a Drone with RxInfer.jl ~ Bart van Erp, Albert Podusenko",
+  "upload_date": "20240405",
+  "duration": 3828,
+  "view_count": 521,
+  "like_count": 29,
+  "channel": "Active Inference Institute",
+  "description": "Witness the power of message passing as we guide you through the process of building a drone in real-time using our toolbox RxInfer.jl. Whether you're a novice intrigued by neuroscience or a seasoned researcher, this immersive demonstration promises to unveil the practical applications of active inference, revolutionizing our approach to autonomous systems.\n\nhttps://github.com/ReactiveBayes/RxInfer.jl\nhttps://rxinfer.ml/\nhttps://lazydynamics.com/\n\n----\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

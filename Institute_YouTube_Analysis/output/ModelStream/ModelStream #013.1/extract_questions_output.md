@@ -1,0 +1,8 @@
+- Could you show the slide on the dchb again?
+- What role is it playing?
+- Was it the a couple slides later or was it this one?
+- Do you want to know how do we use a Dutch book here?
+- Is the agent always trying to guess the same Quantum State?
+- Is it a fixed coin flip with a static or changing probability?
+- What do you think about the multiscale part?
+- What happens next or where should others or what are you going to explore?

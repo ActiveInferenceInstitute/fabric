@@ -1,0 +1,12 @@
+- Do you want to say any words before the quote about like what is this book about when did you publish it how is it published who did it Etc?
+- What made you write that?
+- How have you kind of explored that with medov and elsewhere?
+- Is it Democratic if the community admin makes everyone in the group an admin?
+- What is the equivalent of a democratic space in a telegram or Facebook community?
+- What are some affordances in modern online communities that allow for governable spaces?
+- What are the patterns of governable spaces and please contrast physical governable spaces with digital SL virtual governable spaces?
+- How is it related to attention and perception and action and all of that?
+- What about that quote?
+- Thoughts on the metaphor of community garden and more so gardening verb analogy to Shared governing digital spaces?
+- What are your thoughts on citizen assemblies and their rise in localities along with online tools and platforms to support these?
+- How can people learn more and do more and differently?

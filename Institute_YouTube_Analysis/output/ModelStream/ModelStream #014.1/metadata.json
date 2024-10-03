@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ModelStream 014.1: Ran Wei, Value of Information and Reward Specification in Active Inference",
+  "upload_date": "20240914",
+  "duration": 4544,
+  "view_count": 214,
+  "like_count": 17,
+  "channel": "Active Inference Institute",
+  "description": "\"Value of Information and Reward Specification in Active Inference and POMDPs\"\nRan Wei\n[Submitted on 13 Aug 2024]\nhttps://www.arxiv.org/abs/2408.06542\n\nExpected free energy (EFE) is a central quantity in active inference which has recently gained popularity due to its intuitive decomposition of the expected value of control into a pragmatic and an epistemic component. While numerous conjectures have been made to justify EFE as a decision making objective function, the most widely accepted is still its intuitiveness and resemblance to variational free energy in approximate Bayesian inference. In this work, we take a bottom up approach and ask: taking EFE as given, what's the resulting agent's optimality gap compared with a reward-driven reinforcement learning (RL) agent, which is well understood? By casting EFE under a particular class of belief MDP and using analysis tools from RL theory, we show that EFE approximates the Bayes optimal RL policy via information value. We discuss the implications for objective specification of active inference agents.\n\n----\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

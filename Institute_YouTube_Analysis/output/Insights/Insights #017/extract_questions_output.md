@@ -1,0 +1,18 @@
+QUESTIONS
+- Can we have a can we determine a function of cognition that needs to be conscious a priori?
+- If you could give a kind of brief definition of what you mean by affect?
+- Is that built into the goodness or Badness of the signal of the phenomenal state or does it necessarily underly or underwrite that phenomenal state?
+- Would that make that function that relevance function more akin to this synthetic a priori of Consciousness than affect per se?
+- Why couldn’t that monitoring be done offline?
+- What is it about and this really gets to the heart of this notion of a synthetic priority of Consciousness?
+- Does taking an intentional stance on your own being require Consciousness?
+- Can you have a self-organizing complex dynamical system which is autopoetic in the sense it is intended towards its own self persistence which need not be conscious?
+- Is there something critical to experience per se which makes it adaptive for these free energy minimizing systems and their metacognitive capacities to track their ability to minimize free energy?
+- Why do we ever become conscious of our need to breathe?
+- What functionality is added by this extended form of homeostasis?
+- Why did this happen? What is gained by this that couldn’t go on in the dark?
+- Why can’t this functionality be done in the dark?
+- What are the metaphysical consequences?
+- I wonder whether this was relating to what people talk about in terms of active inference as a dual information geometry?
+- Has that given us any preview or insight into the function of dreaming?
+- Have they been uncoupled from one another?

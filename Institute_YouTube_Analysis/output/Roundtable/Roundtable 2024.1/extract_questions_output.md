@@ -1,0 +1,7 @@
+- Alex, do you want to add anything?
+- Anything to add on that, Alex?
+- Anything you want to add on the research side, Alex?
+- What are the predictions and implications?
+- What are the next steps for us and for the free energy principle and for active inference?
+- What are our preferences?
+- What are you still curious about?

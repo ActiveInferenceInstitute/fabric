@@ -1,0 +1,14 @@
+QUESTIONS
+- How would you connect this to the requirements equation earlier work because you mentioned that there was a requirements equation driven calibration of the optimal navigation so what does that look like to have the optimal navigation according to the requirements equation?
+- Do you assume this wave property for all thalamic nuclei primary and secondary or for specific ones EG pulvinar or mediodorsal?
+- What about 2D orientation would you expect similar waves in hippocampal instead of thalamic regions or is 2D sufficiently easy to get by without?
+- How do we think about the possibly complimentary or redundant information provided by these different aspects of the visual fields and what does your simulation focus in on?
+- How does that relate to that question to that egocentric allocentric distinction?
+- How might the Cade relate to a matrix of inputs versus a human-based visual system movement on The Matrix may give different spatial Dynamics?
+- What do you understand by matrix?
+- How do you see the mechanisms being repurposed for digital navigation semantic navigation narrative navigation?
+- How does this relate to the difference between the B and the bat whereas a b is simply receiving the reflected photons let’s just say the b is sending out a invisible signal so how is this kind of radar echolocation setting similar and different to the vision setting?
+- How do you see the connection with frame differencing and predictive processing in relation to how animals might compute spatial navigation?
+- How do you think attention comes into play in this context?
+- How would perception of ability to conceive of other domains of time as a cognitive function change spatial awareness?
+- What other directions or ways are you hoping to take this work?

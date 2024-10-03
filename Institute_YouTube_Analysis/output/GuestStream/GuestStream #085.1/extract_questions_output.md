@@ -1,0 +1,10 @@
+- How did you come to be applying it the neural network approaches in this project?
+- What do you think that does with the architecture?
+- Can you specify it different ways or have you specified it different ways for example the reward could be when two people interact and don’t have a conflict or different things?
+- What are your next moves?
+- Where do you hope people can participate in everything?
+- What skill set are you looking for in collaborators?
+- What have you learned in this journey so far like about the model output or how it related to some of the other engineering?
+- How do you think about benchmarking when arguably that will have open-endedness in certain ways or conditionalities or possibilities?
+- Do you make a distinction between concepts of piecewise versus nonlinear learning in the context of emergence?
+- Do you think of these two measures as representative as two surely different learning rules or are we simply testing the model in the wrong ways?

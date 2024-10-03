@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ModelStream 010.2 ~ RxEnvironments.jl with Wouter Nuijten",
+  "upload_date": "20240516",
+  "duration": 3525,
+  "view_count": 286,
+  "like_count": 14,
+  "channel": "Active Inference Institute",
+  "description": "RxEnvironments.jl is a package by Wouter Nuijten at BIASlab, for reactive agent-environment systems. \n\nhttps://github.com/ReactiveBayes/RxInfer.jl\nhttps://github.com/biaslab/RxEnvironments.jl\nhttps://rxinfer.ml/\n\nMeeting notes in Coda: \nhttps://coda.io/d/RxInfer-2024-Active-Inference-Institute_ddtS-XZ4BJb/Meetings_su82U#Meetings_tuF_4/r15&view=modal\n\n----\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "not_live"
+}

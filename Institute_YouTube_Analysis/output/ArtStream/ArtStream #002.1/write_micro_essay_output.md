@@ -1,0 +1,7 @@
+Aesthetic value is one of those concepts that feels both essential and elusive. We all know the pleasure of enjoying a beautiful sunset or savoring a delicious meal, yet pinning down what aesthetic value truly is remains tricky. My work aims to bridge that gap by developing a computational model to better understand how we derive pleasure from sensory experiences.
+
+Why bother with a computational model of something as subjective as aesthetic value? Because it allows us to explore the underlying mechanisms driving our experiences. The brain processes sensory information in ways that are both immediate and predictive. We not only react to what we perceive but also learn from it, shaping our future experiences. Two primary theories explain this: fluency theories suggest we enjoy things that are easy to process, while learning theories focus on how our past experiences influence future expectations.
+
+I propose a model that integrates both approaches. By weighing immediate processing against long-term learning, we can better understand our responses to art, music, or any aesthetic experience. This model is not merely academic; it has practical implications for fields like machine learning and recommendation algorithms, where understanding user preferences is crucial.
+
+Ultimately, the goal is to recognize that our perception of beauty is not passive. It’s a dynamic interplay of immediate reactions and learned experiences. By studying this interaction, we can gain deeper insights into what drives our aesthetic judgments and behaviors.

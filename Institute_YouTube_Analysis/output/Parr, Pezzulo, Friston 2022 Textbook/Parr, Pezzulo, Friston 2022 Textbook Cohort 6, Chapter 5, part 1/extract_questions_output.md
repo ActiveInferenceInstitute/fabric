@@ -1,0 +1,33 @@
+- Where does anyone want to begin? 
+- Could be like any page or figure or quote of five that they remembered or that they’re curious about.
+- I’d wonder, so perhaps kind of like in addition to that, one of the things that I had heard a few neuroscientists raise is the question of whether the kind of known connectivity maps in the brain suit themselves to this kind of explanation as well?
+- Would you like to go?
+- Would you have any gradient like layer shifting so would you have you know any of the modalities shift between the layers because of that interaction or would it be like would it remain in situ and just the connections themselves would be the things that are changing?
+- How would that affect like if you’re skipping that first part would that direct to the map of like the ontological directly without then prior updating so you’re kind of going without a map in that sense on the logical side of things?
+- I was just wondering if there’s any correlation in that sense as well so like you know the smaller the transistors that get you know nanometer wise, is there any correlation there with you know in u with the dynamics of neuron interaction? 
+- Why are people collecting all this data? 
+- Can we really just take highlighters and like shade different parts of real tissues? 
+- If we wanted to do that millimeter scale analysis of the sidewalk we could or we could just have the 1 kilometer map but then that’s where realist approaches to computational neuroscience are in a difficult position because it’s so clear even at the single neuron level that you’re corar graining and abstracting over like many levels of function, right? 
+- Would it be simpler to just fit a single parameter linear regression and then still just try to capture as much variance as possible or should we go with this two parameter model with a slightly sharper slope and then a flat bridge?
+- What would the dopaminergic response be? 
+- If we have already kind of laid the top soil with pluralism then it’s kind of like all right great more points for pluralism? 
+- What has happened here applying these mathematical models, the graphical models and like using them as overlays to make sense of the functions of different tissues? 
+- Is there a kind of tension that comes up again and again where we have nodes that are structurally connected to each other like they’re actually sending neural signals but for a given pattern of interest that may not be causally relevant? 
+- What’s the role of the structural connectivity that’s something you can just slice an image and reconstruct in 3D? 
+- What happens if the temperature of the room is if you set it to 72 and it’s at 72 too, why would you take an action? 
+- How much should we penalize having more parameters? 
+- How do you incorporate this kind of runtime inference structure with like development and and and neural and immune development which change the structure? 
+- How do we know that the maps we make with the math that we have are going to be very apt? 
+- If we were talking about a communicative network it’s like we know which people talk to whom or which computers talk to whom, that’s a starting position for the causal architecture of the model? 
+- Is it enough to just say yeah linear aggression? 
+- What’s the simplest system slor would be like all the anatomical connections have causal efficacy and none? 
+- What would it look like if we were to take this neural tissue and actually do a mapping onto biological systems? 
+- How can we tell what gates are opening closing and what’s interacting or cascading across the entire field? 
+- What are the causal consequences of one region on another? 
+- How do you incorporate the bulk propagation of electrical flows or spatial effects into the model? 
+- What’s the relationship between the causal edges and the structural connectivity? 
+- What are the implications of this model for understanding the dynamics of neural interaction? 
+- What’s the effect of glial cells or interleukin or slower changes on this model? 
+- How does the direct pathway mode that they’re analogizing as actually doing the expected free energy calculation G and updating the policy prior into the policy posterior affect behavior?
+- How might that actually be false signaling in some cases if you’re unaware of you know in a priority situation? 
+- What’s the relationship between the computational function and the dopaminergic tone setting the difference between habitual and deliberative behavior?

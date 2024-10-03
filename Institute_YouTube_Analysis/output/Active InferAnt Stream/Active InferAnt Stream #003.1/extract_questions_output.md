@@ -1,0 +1,23 @@
+- Please at any time feel free to write in the live chat a question or a comment or idea?
+- If anything is like off with what you’re seeing or if you have questions or ideas, okay?
+- How does the specific implementation of active inference here in utils uncore active inference differ from other agent based models?
+- Give comprehensive concise answer also conveying why slow slash where slash when quote free energy calculations are specifically coming into play?
+- What could we do next?
+- Please write any comments or questions or ideas in the live chat?
+- What is the hierarchical nature if any?
+- How do we think about Precision on what variational free energy expected free energy?
+- What is the state of exception?
+- What is triggering the state of exception?
+- How do we build a generative model generative process?
+- What algorithm do we need?
+- How do we think about the multi-agent setting?
+- How do we think about cognitive security?
+- How do we think optionally about Quantum exceptions and extensions?
+- How does active inference differ from embodiment?
+- Did you mean eternal return? Is that what you meant?
+- What are your thoughts?
+- Do you like philosophically do you let’s just ask it not that what it says will be an answer philosophically would you say that you fully understand this script and all it implies?
+- What’s the goal of this game?
+- Can we do it without cloning in the repo?
+- How do they play together?
+- What’s the expected behavior?

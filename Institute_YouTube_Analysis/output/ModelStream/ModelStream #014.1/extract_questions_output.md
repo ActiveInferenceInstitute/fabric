@@ -1,0 +1,8 @@
+- Can this strategy risk the agent getting stuck in a local optimum by setting preferences which mitigate information seeking?
+- Where and how does preference learning and scaling come into play?
+- Is that what you’re looking for?
+- Do either of these two approaches provide a practical way to automatically tune a temperature parameter to balance yourself out of a local optimum like you said?
+- How is it possible to use some of the techniques, patterns, guarantees, etc. for full observability on a partially observable situation?
+- Are there any potential benefits of implementing sparse coding techniques in this framework?
+- What are your current research or development directions?
+- In theory or in practice, how is planning for overt action embodied movement similar and different than planning for covert mental action?

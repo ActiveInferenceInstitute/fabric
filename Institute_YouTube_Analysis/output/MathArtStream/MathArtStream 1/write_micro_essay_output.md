@@ -1,0 +1,7 @@
+Math and art have long been seen as separate realms. But in our exploration, we want to show how they intertwine, almost like two sides of the same coin. This isn’t just about finding patterns or numbers in art, but about how artistic thinking can illuminate mathematical concepts and vice versa.
+
+We’re using something called active inference, a framework that allows us to understand how we make sense of the world. This framework opens up new avenues to explore connections between math and art. For instance, when we talk about illumination, we’re not just referring to light; we’re discussing how understanding can emerge from the interplay of math and artistic expression.
+
+Take the concept of memory, as explored by Umberto Eco. He suggests that our understanding of the present is rooted in our memories of the past. This resonates with both mathematical thinking and artistic creation. Just as a mathematician relies on previous knowledge to build new theories, an artist draws on experiences and emotions to create.
+
+In our conversations, we’ll delve into various themes, from the visual aspects of sight to the haunting nature of memory. We’ll explore how artists like Dickens or mathematicians working in category theory can reveal deeper truths about human experience. The aim is to create a dialogue that enriches both fields, revealing the beauty and complexity of the connections between math and art. Join us in this exploration, as we uncover the universal threads that bind these two realms together.

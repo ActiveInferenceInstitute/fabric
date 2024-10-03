@@ -1,0 +1,9 @@
+Active inference is a fascinating framework for understanding how agents interact with their environment. At its core, it’s about how an agent, informed by past observations, decides what action to take next. This concept can be applied to anything from cells to robots. The challenge is creating agents that not only operate effectively but also demonstrate general intelligence without posing existential risks to humanity.
+
+In this context, general intelligence means an agent's ability to learn, adapt, and act intelligently across various unforeseen situations. Active inference offers a beautiful model for this, suggesting that agents minimize surprise by adjusting their beliefs based on new evidence. However, while the theory is elegant, it doesn’t provide a clear blueprint for building these agents. 
+
+One major hurdle is the computational intractability of Bayesian inference, which active inference relies on. The complexity of real-world environments requires approximations, often leading to a mix of heuristics developed through evolution or engineering.
+
+To move forward, we need to rethink how we design these agents. Instead of trying to specify every aspect of their generative models, we should explore using neural networks as function approximators, allowing them to learn from their experiences in diverse environments. By doing so, we can create agents that not only perform well but also exhibit the richness of intelligent behavior that we associate with living beings. This involves building environments where agents can engage in both competition and cooperation, fostering a space for emergent behaviors and learning. 
+
+The journey of creating such agents is filled with challenges and opportunities for collaboration. It’s an exciting frontier that promises to reshape our understanding of intelligence.

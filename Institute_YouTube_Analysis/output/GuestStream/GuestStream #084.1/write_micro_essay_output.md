@@ -1,0 +1,7 @@
+When you look at habits, the conversation often drifts toward whether they are good or bad. But what if we shifted that lens to see habits as tools for navigating our environment? Habits can be seen on a spectrum of adaptive and maladaptive behaviors, where the former enhances our interaction with the world, while the latter detracts from it.
+
+Understanding habits requires us to explore adaptive learning in agential systems, particularly through the lens of biology. For three years, I’ve delved into literature surrounding drug dependency—not just to understand addiction but to see what lies beneath: our fundamental behaviors. The narrative around habits can often be misleading, framing them as inherently negative. Yet, if we recognize them as mechanisms for optimizing our engagement with our surroundings, we can begin to appreciate their complexity.
+
+The next step in this exploration is to consider interventionary approaches. How can we leverage technology or even our daily routines to reinforce positive habits? This is not just a theoretical exercise; it has practical implications for how we interact with each other and ourselves over a lifetime. 
+
+Ultimately, the goal is to foster a deeper understanding of how we can adapt our behaviors to improve our fitness in both the individual and collective sense. By examining habits through this lens, we may discover new pathways to enhance our well-being.

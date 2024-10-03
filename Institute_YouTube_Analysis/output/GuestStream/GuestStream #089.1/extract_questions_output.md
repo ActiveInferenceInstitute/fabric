@@ -1,0 +1,14 @@
+- Thank you both for joining. Stefan, to you for a presentation, we'll look forward to that.
+- Can you explain what reinsurance is?
+- What are the two different approaches traditionally used in reinsurance?
+- What is the relevance of your presentation?
+- Can you point out some of the challenges we are facing in this attempt?
+- Can you provide a roadmap for a solution?
+- Can you show some examples?
+- Do you think the world is ready for this?
+- Is there any form of acceptance for this?
+- How do we get people to want to do something new?
+- Could the generative model be included as a calibration in effect but on the existing projection of claims history to the future?
+- Is there a way to make the thing that we’re aspiring to migrate towards a part of an existing part of the analysis?
+- Do you have any thoughts on the biological analogies to the reinsurer's or underwriter's role?
+- Where are you going to go with this work or what are your directions?

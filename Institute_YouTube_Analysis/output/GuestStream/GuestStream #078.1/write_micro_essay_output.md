@@ -1,0 +1,7 @@
+The relationship between cognition and phenomenology is complex but fascinating. In this context, phenomenology is not merely about feelings or consciousness; it's a rigorous philosophical tradition aimed at understanding how we experience reality. Edmund Husserl, the founder of phenomenology, emphasized the importance of temporality in our experiences. He argued that consciousness unfolds in a stream over time, comprising the past, present, and future. 
+
+This triadic structure—retention (the just past), primal impression (the immediate present), and protention (the anticipated future)—shapes our conscious experience. Yet, this flow of consciousness is more than a sequence; it's about how we engage with the world. Affection, the pull something exerts on our attention, is foundational to this process. It precedes our conscious attention and shapes our interactions with our environment.
+
+Interestingly, this dynamic also resonates with the principles of active inference, a framework in cognitive science. Both phenomenology and active inference recognize that understanding consciousness requires a model of how we perceive and interact with the world. They highlight the interplay between our anticipations and the way we experience reality. 
+
+Ultimately, to grasp consciousness, we must appreciate this duality: how our lived experiences are shaped by both temporal structures and affective dynamics. This integrated approach offers a richer understanding of not just human cognition, but of life itself.

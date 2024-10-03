@@ -1,0 +1,5 @@
+- How was this agent constructed and how or was it the case that the neurons consider counterfactuals or how did the counterfactual come into play?
+- Is there a noise or density limit to the Matrix culture interconnect?
+- How would you characterize why catastrophic forgetting happens in RL and how do you feel that active inference generative models and/or the embodied dish brain averts that or does it ever do forgetting or what kind of forgetting and how does the Dynamics there differ from the reasons why those phenomena happen in RL?
+- Have you compared results from cultures from different brain structures e.g. prefrontal cortex versus visual cortex?
+- Could you see scaling this from a 2D grid to 3D Matrix emulating cortical columns and interconnecting them?

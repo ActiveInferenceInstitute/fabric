@@ -1,0 +1,13 @@
+- Can you share with us about the RX environments?
+- I actually had a question, do you understand C as well?
+- Did you just use your custom commands that you just sent yourself?
+- Is it possible to use only RX environments or is it supposed to be always used in collaboration with RX and fur?
+- Do you see that as kind of superfluous in the RX environments setting or is it fine to use that approach?
+- Is there a subtlety there?
+- Can you point as to or a fragment of code that shows us how to do that?
+- Is my mic better now?
+- Do you think you could add a discrete control space example for us as well?
+- How would you deal with the setting of multiple ant nestmates moving around and modifying the pheromones on the ground?
+- Could you explain that again please?
+- How do you think the iterative procedure would work in terms of action and observation?
+- What’s kind of the biggest problem set of problems you’re looking to do?

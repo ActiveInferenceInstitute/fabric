@@ -1,0 +1,5 @@
+- So is what being stated here pretty much saying that you dopamine is increasing the Precision of you know the brains uh you know I guess what the bra understands of of policies?
+- Any other random part of five or one of these questions someone wants to think about?
+- Is there in Markoff blankets um what would be the uh the interdependencies how would you how do you describe the interdependencies or are mackoff blankets essentially boundary interdependencies?
+- Can you say anything about the um the page on active inference model recipe that’s pretty cool?
+- Is this assuming that you there is an observer and an observed or in terms of you know because it’s like the question of whoop um you know what must be observed could that be U could that be you know self modeling?

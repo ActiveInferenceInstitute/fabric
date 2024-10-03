@@ -1,0 +1,1 @@
+🐝🔍 Excited to dive into 3D spatial cognition with bees and bats! 🦇 Today, we'll explore how these small animals navigate their world through sensory integration and active inference. 🧠✨ Join us for insights on how they build mental models of space and the challenges of classical neuroscience! #Neuroscience #SpatialCognition #ActiveInference 🌍🔬

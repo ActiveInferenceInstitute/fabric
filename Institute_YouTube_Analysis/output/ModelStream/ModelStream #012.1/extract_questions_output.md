@@ -1,0 +1,7 @@
+- What brought you from the review of how people had modeled optimism to this relationship with anxiety and arousal?
+- So sorry, so how why was I interested in the optimism and the arousal?
+- What is it about situations or lifestyles or different areas where optimism is relevant and is it always that way or where wouldn’t it be?
+- Do you think active inference can help computational Psychiatry and even cognitive science in general to model additional cognitive biases beyond the optimism bias?
+- What brought you in the lab to want to explore this question other than having an optimistic belief about a cool grad student?
+- Is this like the same generative model that you adapted three ways or how were across the experiments was it the same graph being used in slightly different settings?
+- Would you consider a bias the same as an expectation? Is optimism the expectation of a positive outcome?

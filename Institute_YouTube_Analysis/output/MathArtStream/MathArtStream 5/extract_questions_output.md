@@ -1,0 +1,20 @@
+- What would that perspective be like?
+- What does that mean?
+- What would the perspective pass be like?
+- What would that look like?
+- What does that mean for learning?
+- What does it mean for just navigating?
+- What would be the point like 3 comma 5?
+- What would a planar time look like?
+- What does that upward and downward motion kind of represent?
+- What would that third directional single access mean?
+- What would be the physical properties that separate them?
+- What would that mean for morphogenesis?
+- What does that mean for time?
+- What do you think a four-dimensional creature would hear?
+- What would 4D sound take form as?
+- Can you explain this one a little bit?
+- What do you see as the very complicated time of that?
+- How would we perceive time without numbers and language?
+- What do you think of the time of autop poiesis?
+- Can you speak to what you see as the very complicated time of that?

@@ -1,0 +1,9 @@
+- What is it in how you’re seeing it and what you’ll like to do with it?
+- Does anyone want to add anything here?
+- Anyone want to add any comments or thoughts on this?
+- Does anyone want to make any comments on Reiner or projects?
+- Can you just talk a little bit about your use of the term symbolic in symbolic cognitive?
+- What language do you use for the symbolic processing and discovery of causal theories?
+- If anyone has questions from live chat they can write it otherwise I will make some notes on one slot and then anyone who wants to bring up anything or ask anything or anything that they’re excited about for the second half of the year or however they can go for it.
+- Why is your bike called Red Queen?
+- Have there been any particularly interesting developments recently aside from the live stream?

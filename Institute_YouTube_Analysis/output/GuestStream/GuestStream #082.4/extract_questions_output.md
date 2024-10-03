@@ -1,0 +1,15 @@
+- How do we combine those lines of evidence to make some overall estimate of how likely it is that there is a wave in the brain?
+- What evidence is there that there is such a wave in the brain?
+- What is the prior considerations that go against the wave hypothesis?
+- What are the positive lines of evidence for the wave?
+- How do you assess the overall probability that the wave is there?
+- What are the smoking gun evidence in the thalamus?
+- How does this wave work?
+- How do we model a wave?
+- How do we test this wave hypothesis?
+- How would you unpack the spatial Precision in relation to the temporal Precision?
+- How does the wave persist?
+- How do neurons couple to it?
+- Can there be a brain without any neurons?
+- Could this theory be used to test whether or not someone in the ICU with brain damage is conscious?
+- What are your next moves?

@@ -1,0 +1,12 @@
+- what um was your question before we begin?
+- could you comment on the main point of this uh of of this paper?
+- so it’s one of the top down approach to look at active inference?
+- what do we want to look at or make a model of or is there an empirical data set that we want to connect it to or a type of empirical data that we want to connect it to?
+- does it actually read the paper and the documentation?
+- I want to ask about the the gp4?
+- is agent based modeling uh a field suitable for active inference?
+- I wonder if there is value to be added if you if you bring the active inference discipline into that field?
+- I wonder if that’s a good uh topic for a master thesis?
+- did Jeff mention mutation agents?
+- what would be the next level of sophistication that’s not there yet in PDP?
+- beyond the yeah the rat of the maze what do you what do you see will be the next step in evolution of the models?

@@ -1,0 +1,7 @@
+Active inference is a fascinating concept that invites us to rethink how we understand learning and decision-making. It’s about how we perceive the world, act on those perceptions, and refine our understanding based on the feedback we receive. This quarterly Roundtable for the Active Inference Institute is a great opportunity to delve into this.
+
+Today, we’re not just sharing updates; we’re engaging in a collective exploration of ideas. The emphasis is on participation. It’s exciting to see more projects emerge, and the collaborative spirit is palpable. We’re moving towards a second version of our ecosystem paper, which aims to clarify the relationships between various components of our institute and the broader active inference ecosystem. This isn’t just a document; it’s a living reflection of our shared journey.
+
+As we approach the upcoming Symposium, it’s worth noting that this isn’t just about theory. We want to connect with practitioners, to see how active inference can be applied in real-world contexts. The goal is to create a space where ideas can flow freely, where we can learn from each other’s experiences, and where newcomers can find their footing.
+
+What’s most inspiring is the potential for growth. Each contribution, each project, is a step towards a deeper understanding of active inference. The future is bright, and as we move towards 2025, the possibilities feel endless. Let’s keep the conversation going and continue to support one another in this endeavor.

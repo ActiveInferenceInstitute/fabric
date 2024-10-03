@@ -1,0 +1,13 @@
+- What is the dimension of empty space?
+- How can I visualize a negative Dimension?
+- What is the dimension of a point?
+- Wouldn't we need something like a fourth dimensional eyeball with a three-dimensional retina in order to see a fourth spatial Dimension?
+- How can we attempt to visualize such a feat when we are immersed in 3D Concepts?
+- How can we visualize un knotting knots in R4?
+- How do we visualize a four dimension spatial system?
+- How do we visualize something that has no Collision of inside and outside?
+- How do one perspective see the inside shrink and outside expand at the same time?
+- What do the authors think would happen to the concept of fitting when a fourth dimension is introduced?
+- How do you connect this with design or how do you see this in relation with design?
+- Can you elaborate a little bit on what fitting means?
+- Where do you both go from this work?

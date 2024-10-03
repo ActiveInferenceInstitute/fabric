@@ -1,0 +1,11 @@
+- How can we empirically test this and how can we quantify uncertainty in a way that we can link it to people's experiences?
+- What is the relationship between creativity as an attribute of the artist and creativity as a product?
+- How does the creativity of the process relate to the creativity of the product?
+- Why would reducing uncertainty be pleasurable in and of itself?
+- How does computational neurophysiology according to active inference map onto the actual neurophysiology of pleasure?
+- Is there a sweet spot of mismatch between the model of the artist and the model of the perceiver?
+- How do different aesthetic experiences affect the reception and appreciation of art?
+- What could be the function of positive experiences in the context of reducing uncertainty?
+- How does the aesthetic experience relate to everyday experiences?
+- How can we incorporate more empirical ideas and approaches in the art stream series?
+- Would it be interesting to invite expert artists to the series to share their perspectives?

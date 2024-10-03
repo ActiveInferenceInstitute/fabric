@@ -1,0 +1,5 @@
+- How did you come to be studying this intersection of questions and methods and theoretical perspectives?
+- You mentioned interpretability, so how do you think about interpretability of aesthetic models when we have this kind of dual interpretability from the inside and then we have this kind of external interpretability?
+- Are there phenomena that kind of buck that trend or are there maybe pieces or genres where we have like a step like we enter into it and then we can see more or different?
+- How would you represent the philosophical or psychological or computational developments on art recognition models in contrast with models of creating art or different media and different ways of more actively constructing art?
+- How do you see your work and research and everything unfolding or what ways are you excited to go?

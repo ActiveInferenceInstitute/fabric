@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ArtStream 002.1 ~Aenne Brielmann: \"Modelling individual aesthetic judgements over time\"",
+  "upload_date": "20240709",
+  "duration": 3946,
+  "view_count": 130,
+  "like_count": 4,
+  "channel": "Active Inference Institute",
+  "description": "\"Modelling individual aesthetic judgements over time\"\nAenne A. Brielmann, Max Berentelg and Peter Dayan\nPublished:18 December 2023 https://doi.org/10.1098/rstb.2022.0414\nhttps://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0414\nAbstract\nListening to music, watching a sunset\u2014many sensory experiences are valuable to us, to a degree that differs significantly between individuals, and within an individual over time. We have theorized (Brielmann & Dayan 2022 Psychol. Rev. 129, 1319\u20131337 (doi:10.1037/rev0000337))) that these idiosyncratic values derive from the task of using experiences to tune the sensory-cognitive system to current and likely future input. We tested the theory using participants\u2019 (n = 59) ratings of a set of dog images (n = 55) created using the NeuralCrossbreed morphing algorithm. A full realization of our model that uses feature representations extracted from image-recognizing deep neural nets (e.g. VGG-16) is able to capture liking judgements on a trial-by-trial basis (median r = 0.65), outperforming predictions based on population averages (median r = 0.01). Furthermore, the model\u2019s learning component allows it to explain image sequence dependent rating changes, capturing on average 17% more variance in the ratings for the true trial order than for simulated random trial orders. This validation of our theory is the first step towards a comprehensive treatment of individual differences in evaluation.\n\nThis article is part of the theme issue \u2018Art, aesthetics and predictive processing: theoretical and empirical perspectives\u2019.\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

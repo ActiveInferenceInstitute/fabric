@@ -1,0 +1,6 @@
+- What is behind this drive to engage with music?
+- When and why are we listening, and when and why are we not listening?
+- How does the predictive processing framework explain our attention toward stimuli?
+- Can you restate how the what and when pathways come into play in music perception?
+- How are you seeing AI analysis and generation of music changing our understandings and habits and behaviors in listening?
+- What are your next moves or directions for research with music or for anything?

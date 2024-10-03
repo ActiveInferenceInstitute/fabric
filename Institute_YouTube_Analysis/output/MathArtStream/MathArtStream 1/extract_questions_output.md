@@ -1,0 +1,10 @@
+- When does mathematical thinking become artistic thinking and vice versa?
+- What are the conditions to have math art being one word?
+- What does it mean to be an active infer?
+- Is it possible that arts can help us explain maths and sciences?
+- How would the world look from the mirror outside?
+- What do you think Echo means when he says you need memory to fall asleep?
+- How does your current self relate to your past self?
+- Can we put the spectral I.E rainbow back into its energy source?
+- What has happened is one level of stake; the present is more vital and sets up expectations going to the future. What is the status of a ghost that you expect to see?
+- Does category Theory capture or release imagination?

@@ -1,0 +1,18 @@
+- What are the big two topics we're heading towards today?
+- Can you explain the acronym "bolts" and how it applies to organizations?
+- What are the properties, processes, and perspectives in the context of the P3F framework?
+- How does the P3F system integrate and visualize complex data relationships?
+- What are some examples of enterprise frameworks that you analyzed?
+- How do you categorize systems using the P3 framework?
+- What are the challenges that P3F addresses in terms of rigidity and silo perspectives?
+- How can we analyze different domains within the context of P3F?
+- What kind of synthetic data can we generate using the P3F framework?
+- How do you visualize and analyze the data generated from P3F?
+- What insights can we gather from the meta-analysis of the data?
+- How does the 3R system relate to functional privacy analysis?
+- What are the key components of the 3R system?
+- How does the concept of functional privacy simplify legal analysis?
+- Can you provide examples of how the 3Rs are applied in different domains?
+- What are the next steps for integrating P3F and 3R systems?
+- How do you envision collaboration between the P3F and 3R frameworks?
+- What kind of feedback do you hope to receive from the audience regarding P3F and 3R?

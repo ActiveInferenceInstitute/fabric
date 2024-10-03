@@ -1,0 +1,21 @@
+- Is there a difference between collective behavior in and of itself and the behavior of an aggregation of individuals who belong to a group?
+- Is there something over and above the behavior of individuals when we talk about collective behavior?
+- Is there something that emerges ontologically in terms of the actual dynamics of the group as a whole that can't be reduced to just a summation of those individual behaviors?
+- Can we distinguish that from top-down causality?
+- Where do you see the top-down causality coming in before we get to languages or broader cultures or economies?
+- Have you got any intuition as to whether the presence of others with shared goals is actually beneficial for the organism who's pursuing that individual goal?
+- Would it be better if we were all siloed off and an island unto ourselves?
+- Is there any kind of idea about examples that might be very tricky to explain under a kind of Bayesian mechanics or under active inference?
+- Is there a way that you could actually just couple a system of particles with some third cause that’s giving the appearance of correlated activity?
+- Is there anything that gives us individuated thingness beyond taking that as a kind of axiom?
+- How can we distinguish one individual from another?
+- Do you think that the firing rates of the neuron simply are the belief or the representation themselves or is there some map that takes the physics of the system and then maps it into a probability distribution?
+- What would it mean to say that we’re doing gradient descent just on blanket states?
+- Are blanket states, absent the internal states, also pointing down variational free energy gradients?
+- Is there a higher order prior that you need to put into it that means that it actually will act to minimize variational free energy?
+- What’s the kind of fundamental thing that you need to kind of put in that means that it just doesn’t sit there and it’s built with these beautiful priors but doesn’t really act in accordance with them?
+- What’s the kind of process that provides the equivalent of mutation in natural selection?
+- How much are we getting out of the free energy principle?
+- How do you think about the circular causality between preferences and attention?
+- What’s happening in something like a psychopathology like for insertion in schizophrenia where people don’t trust that the thoughts that they’re thinking are theirs?
+- Can you explain what scene construction is at a high level?

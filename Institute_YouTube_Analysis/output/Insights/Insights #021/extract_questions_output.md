@@ -1,0 +1,12 @@
+QUESTIONS
+- So perhaps you could just give a brief account of the fundamental claims or axioms of the SMT with respect to its kind of key constraints whether that’s transparency globality and so on?
+- So what do you think listeners should know about the self mod?
+- So there, there you talk about simulation and emulation and I think that’s a nice place to start which is that in self models we have an emulating and simulating system and a target system and it just so happens in the self model those things are the same?
+- Why is it that that process C of simulation and emulation is giving rise to phenomenality?
+- So how can system think with image like structures and not with symbol calculus?
+- Is there something about self modeling because maybe this is worth explaining as well that the self model is always embedded in a world model?
+- How does the system manage to make a distinction between itself and its lived world?
+- Is there a way in which the system that’s emulating and simulating itself does not take itself to be the whole world?
+- Is there anything that you’ve changed your mind on? Is anything that sort of convinced you like oh this part of the SMT needs tweaking?
+- What do you mean when you say that when it’s written that the emulating simulating system and the target system are identical? 
+- How do you contend with that generally?

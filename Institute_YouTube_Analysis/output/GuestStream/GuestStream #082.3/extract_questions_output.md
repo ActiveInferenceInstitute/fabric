@@ -1,0 +1,25 @@
+- Robert, please begin the presentation and also Robert close the YouTube on your side?
+- What kinds of data is there about Consciousness that the theory has to fit?
+- What are the reasons to believe some Theory whether a theory of Consciousness or anything else?
+- How can we get to that point with the theory of Consciousness?
+- What is the data we have to test theories of Consciousness?
+- How does neuron firing represent 3D space?
+- How do we pick out just those neurons which cause Consciousness from all the others that don’t?
+- How do neurons represent space?
+- How can neurons store a precise and responsive fast model of 3D space like the one we experience?
+- What’s the testable data in spatial Consciousness?
+- If you really want to prove your theories right, then it’s got to account for the spatial form of Consciousness, if you’re going to believe it?
+- What’s happened here, can you see that change?
+- Do you think there is a wave in the brain that represents 3D space?
+- What is the physical nature of the wave?
+- Why have we not detected this wave in the brain if it’s been there all these years?
+- How would you measure such a condensate?
+- How might we be able to probe this within the next 10 years?
+- Where is affect and such in this kind of spatialized model?
+- How do you end up deciding to reach out and grab this bottle?
+- How does the wave integrate with or recruit the computational apparatus of the brain?
+- What would differentiate a condensate from a formulation in terms of a time-dependent wave equation?
+- If we found multiple such waves, would you conclude that there must be multiple consciousnesses then in a single brain?
+- What’s the functional mathematical form of this wave?
+- How can we start modeling and see what happens?
+- What does the wave amplitude actually mean?

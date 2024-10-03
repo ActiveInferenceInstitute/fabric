@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ModelStream 011.1 ~ Hadi Vafaii: \"Poisson Variational Autoencoder\"",
+  "upload_date": "20240627",
+  "duration": 4202,
+  "view_count": 297,
+  "like_count": 22,
+  "channel": "Active Inference Institute",
+  "description": "\"Poisson Variational Autoencoder\"\nHadi Vafaii, Dekel Galor, Jacob L. Yates\nhttps://arxiv.org/abs/2405.14473\n[Submitted on 23 May 2024]\n\nVariational autoencoders (VAE) employ Bayesian inference to interpret sensory inputs, mirroring processes that occur in primate vision across both ventral (Higgins et al., 2021) and dorsal (Vafaii et al., 2023) pathways. Despite their success, traditional VAEs rely on continuous latent variables, which deviates sharply from the discrete nature of biological neurons. Here, we developed the Poisson VAE (P-VAE), a novel architecture that combines principles of predictive coding with a VAE that encodes inputs into discrete spike counts. Combining Poisson-distributed latent variables with predictive coding introduces a metabolic cost term in the model loss function, suggesting a relationship with sparse coding which we verify empirically. Additionally, we analyze the geometry of learned representations, contrasting the P-VAE to alternative VAE models. We find that the P-VAEencodes its inputs in relatively higher dimensions, facilitating linear separability of categories in a downstream classification task with a much better (5x) sample efficiency. Our work provides an interpretable computational framework to study brain-like sensory processing and paves the way for a deeper understanding of perception as an inferential process.\n\n----\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 085.1 ~ David Bloomin: \"[Deep] Learning Active Inference\"",
+  "upload_date": "20240806",
+  "duration": 5035,
+  "view_count": 366,
+  "like_count": 22,
+  "channel": "Active Inference Institute",
+  "description": "[Deep] Learning Active Inference\nDavid Bloomin\n\nThe Free Energy Principle posits that all persistent objects can be modeled as maximizing the model-evidence of their prior beliefs. They engage in Active Inference: updating their posterior from evidence, while navigating their environment to reduce uncertainty of their world-model and occupy states that concord with their prior beliefs. Since actual bayesian inference is computationally intractable, we can think of the agents as performing an easier computation of variational inference: minimizing a surrogate distribution. This framing unifies intelligent behavior at any scale, from cells to nation states, but fails to provide a recipe for actually creating an intelligent agent. The agent requires a generative model with a set of priors that must somehow be engineered or discovered. This talk proposes a concrete approach for using Deep Reinforcement Learning to find an approximation to an Active Inference Agent that can competently navigate complex environments.\n\nCode: https://github.com/daveey\nhttps://daveey.github.io/\nhttps://x.com/daveey\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

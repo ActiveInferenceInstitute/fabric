@@ -1,0 +1,5 @@
+- Can you please maybe um share some insight on why you think Harry is particularly vulnerable to the Dementors?
+- How does having episodic memory help to reduce expected free energy minimize the expected free energy? 
+- Can you kind of say what you said yesterday that you thought it was like about the skill set? 
+- Hector, can you offer us some insights maybe talk about the amnesia that Clive is facing? 
+- Can you just give us a feel of what it’s like to have both anterograde and retrograde amnesia?

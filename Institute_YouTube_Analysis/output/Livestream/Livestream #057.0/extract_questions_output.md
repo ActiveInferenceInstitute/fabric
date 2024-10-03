@@ -1,0 +1,20 @@
+- why don&#39;t you add some detail to this?
+- is there a way that we can intelligently select the data that we&#39;re uh going for the time that uh the time that we&#39;re trying to select?
+- is there a way that we can understand how the time aspect how to sample through time instead of just doing a like a dynamic uh or more Dynamic instead of doing a static like we&#39;re going to do Time Zero time 7 time 14 time 21?
+- can we say hey the differences between time one and time two are very interesting that&#39;s a lot of data in there alone so we&#39;ll sample one and two or and then maybe sample 10?
+- are there situations that one performs better over than the other?
+- is what they have selected to use in the paper the optimal solution in most cases if not all cases?
+- is there a way that you can bound this uh model that they&#39;ve developed in to something that you can guarantee a minimum number a minimum sampling that the FDA requires or any regulatory body?
+- is there a selection method that we can uh or how do you see these this method kind of pre kind of before machine learning?
+- how are we going to attach these things together so that we feed the right data into the machine ma learning?
+- how do you see these this method kind of pre kind of before machine learning?
+- what do you want to say about basian networks and graphs?
+- how do you resolve that?
+- why bother with the full information seeking objective?
+- how does this differ from Maximum entropy sampling?
+- how would that look?
+- does it provide more or less versatility in the models?
+- what’s a cost?
+- how are you going to sample data that’s going into those models?
+- how do you optimize those cost functions?
+- what do you think about that unbiased research in study design?

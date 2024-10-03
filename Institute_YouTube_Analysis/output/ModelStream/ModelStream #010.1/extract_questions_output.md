@@ -1,0 +1,10 @@
+- how are we going to build a drone with RX infer?
+- if we have crafted this model and we want this model actually to do something, what does inference allow us to compute?
+- what forces act on this drone?
+- how does our state evolve over time?
+- what are the ideal characteristics and backgrounds to have if somebody wanted to help develop RX infer with your organization?
+- is the reactive part based on events to trigger the pipeline or based on signals?
+- does RX infer have any examples available for categorical control spaces?
+- to what extent can you guys parallelize within RX infer?
+- have you guys thought about approaching big players like Amazon Web Services to incorporate this into their tools?
+- what are the largest current challenges to the reactive message passing paradigm for doing this kind of approximate Bayesian inference?

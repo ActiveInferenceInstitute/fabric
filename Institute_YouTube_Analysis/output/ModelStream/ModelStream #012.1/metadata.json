@@ -1,0 +1,11 @@
+{
+  "title": "ActInf ModelStream 012.1 ~ Fisher, Whyte, and Hohwy: An Active Inference Model of the Optimism Bias",
+  "upload_date": "20240627",
+  "duration": 3941,
+  "view_count": 262,
+  "like_count": 11,
+  "channel": "Active Inference Institute",
+  "description": "\"An Active Inference Model of the Optimism Bias\"\nElizabeth L Fisher, Christopher J. Whyte, and Jakob Hohwy\nhttps://osf.io/preprints/psyarxiv/xfb48\nThe optimism bias is a cognitive bias where individuals overestimate the likelihood of good outcomes and underestimate the likelihood of bad outcomes. Associated with improved quality of life, optimism bias is considered to be adaptive and is a promising avenue of research for mental health interventions in conditions where individuals lack optimism such as major depressive disorder. Here we lay the groundwork for future research on optimism as an intervention by introducing a domain general formal model of optimism bias, which can be applied in different task settings. Employing the active inference framework, we propose a model of the optimism bias as precision over a positive outcome. First, we simulate how optimism may be lost during development by exposure to negative events. We then ground our model in the empirical literature by showing how the developmentally acquired differences in optimism are expressed in a belief updating task typically used to assess optimism bias. Finally, we show how optimism affects action in a modified two-armed bandit task. Our model and the simulations it affords provide a computational basis for understanding how optimism bias may emerge, how it may be expressed in standard tasks used to assess optimism, and how it affects agents\u2019 decision-making and actions; in combination, this provides a basis for future research on optimism as a mental health intervention.\n\nhttps://doi.org/10.31234/osf.io/xfb48\nCreated: June 02, 2024\n\nhttps://github.com/bethfisher-hub/optimism_simulations/\n\n----\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

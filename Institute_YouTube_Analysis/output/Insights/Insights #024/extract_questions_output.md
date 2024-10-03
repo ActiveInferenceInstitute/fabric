@@ -1,0 +1,8 @@
+- How did it come to be and what were the beginning steps like?
+- Do any come to mind like what was sort of a leadup or a followup that was surprising?
+- What were some topical themes whether ones that developed like even over those months or just some emergent themes or like what topics did you find coming up or developing?
+- What is active inference?
+- Why is it important to have insights about active inference?
+- How would you evaluate that and or how would you see it continuing?
+- How could they kind of jump in and continue just thematically and from the same intention center?
+- What do you see that as actually being like for someone to do?

@@ -1,0 +1,20 @@
+- Could you tell us more about the Society Library and what you do?
+- Can you explain how your methodologies have been taught at universities and extended to fact checkers?
+- What kind of debate maps have you created regarding AI?
+- Why do you think libraries are still relevant in the context of the overwhelming amount of information available today?
+- What are some of the complex issues that you've found have no right answer?
+- How do you approach creating knowledge graphs for societal debates?
+- Can you walk us through an example of a debate you mapped?
+- What challenges do you face in automating the creation of deliberation graphs?
+- How do you define the scope of AI debates, and what kind of questions arise from them?
+- Can you discuss the importance of semantics in AI discussions?
+- How do you ensure that diverse perspectives are represented in your mapping process?
+- What are some of the patterns you've noticed in public sentiment regarding AI?
+- Can you explain the concept of calibrating the level of abstraction in your knowledge graphs?
+- How do you break down complex claims into debatable arguments?
+- How do you handle cycles of justification in your claims?
+- What tools are you developing to assist with decision-making models?
+- Can you talk about the importance of open-source accessibility for your work?
+- What are your short-term goals for the Society Library?
+- How do you plan to merge the top-down and bottom-up approaches in your methodologies?
+- What kind of support are you looking for from the community?

@@ -1,0 +1,23 @@
+- Can anyone write a question in the chat or raise their hand or just like unmute and go for it?
+- I was trying to understand what do those changes mean?
+- Any thoughts on that or more on that question?
+- Or it could be a different question that anyone has?
+- If no one else has, I’ll go again.
+- What’s the type of that like if you were to describe the space in which a policy either the discrete version the pi or the continuous version The V like what that lives in?
+- So just to clarify or check my understanding, so um then whenever we see like uh V with the Tilda representing a trajectory over policies like that is maybe should be regarded as something that’s like because as exponential and like a unbounded number of steps is like not something that we should consider like concretely representable in a program?
+- So I was just wondering if um if that fits in or if my intuition on the the correlation is incorrect there?
+- If you go further down, uh there’s a section on branching and the relation?
+- Are there situations where even if there’s really five the first derivative covers 99% of it or there might be ones where the higher derivatives do matter?
+- Just to connect here’s just evaluating the point, so to say you know this is this is like the true sea levels for the next 24 hours or this the real temperature in the room?
+- Is that assumptive or is that you know provable in the sense that we just can’t see past a certain State because it’s you know a hidden state or is it calculable past that hidden state that is going to be infinite?
+- Can I ask like a very fine Grand question to zoom all the way back in?
+- I kept getting confused in the text by some of the conventions in the math, are bold faces and our serifs versus S serifs meant to mean anything?
+- What do you mean by S you mean this F versus this F right?
+- Has someone tried to implement this for like motor control?
+- Could you uh go back really quick for me to uh the chapter was I scroll down I think it was five where you had gone down to uh Consciousness related to that?
+- Wouldn’t that be considered um in the same way that Cheryl was just talking about different layers of the brain where the tree structure itself right has its own branches and nodes that are still connected in the same field that may grow around?
+- Has there been discussion around like how much our sensors contribute to our cognitive function?
+- If you took a human brain and you put into a dog’s body would we start thinking like a dog?
+- Would the false body reject the mind or would the Mind reject the false body in that sense?
+- How necessary is it for intelligence or like general intelligence like you know do want if want to get high level’s intelligence do we need an embodiment system that you know senses the world?
+- Do they have any examples where they’re doing um active influence on just some basic um basic predictions like I don’t know temperature?

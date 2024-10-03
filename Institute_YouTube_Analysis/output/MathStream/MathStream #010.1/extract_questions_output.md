@@ -1,0 +1,7 @@
+- Could you speak a little bit about redundancy and Synergy with respect to fragility and other system properties?
+- How might G be related with network controllability?
+- How do you think about these kind of informational properties of systems or networks with respect to other systems properties?
+- How do we deal with that when outside of dealing with these systems purely symbolically we actually want to be using certain partitions and identifying useful decomposed components?
+- How do you bring something that’s kind of generalized across observers and types of variables and bring that from being kind of an analytical result into being something like the air conditioner is reducing the K Divergence about preferred temperatures with respect to courses of air conditioning?
+- How would you connect this to the concept of known unknowns and unknown unknowns?
+- What do you think about the relationship between redundancy and synergy in the context of cognitive modeling?

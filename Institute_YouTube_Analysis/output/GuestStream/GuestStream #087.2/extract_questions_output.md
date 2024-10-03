@@ -1,0 +1,3 @@
+- What did you get more curious about during the course of this path?
+- Do you have any thoughts on implementation terms of code EG any particular programming languages or libraries?
+- What are some of the possible anticipated milestones for the rest of the year?

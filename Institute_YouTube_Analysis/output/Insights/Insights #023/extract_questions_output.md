@@ -1,0 +1,22 @@
+QUESTIONS
+- But it might be worth just starting with a very general overview of the kind of lateralization hypothesis?
+- Is there any other way in which the actual neuroanatomical structure of the brain resembles these underlying functions?
+- Is there anything that you know a neuron atomist could look inside the hemispheres and say okay there’s something generally physical that is mapping onto those dichotomies?
+- Is there a potential counterargument that the left hemisphere might itself be the master?
+- Is there a way in which Beyond pure asymmetry and as you say the brain is neuroanatomically asymmetrical not only in its division into the two hemispheres but also the actual structure of the hemispheres?
+- How do you sort of marry that and make that compatible?
+- Do you believe in a fundamental Telos for which our attention is being guided or these hemispheres are acting in correspondence beyond let’s say mere survival or mere self-organization?
+- What does that tell us about our Consciousness?
+- What does that tell us about our fundamental way of being?
+- How much can we really disband that dichotomy and how important is it to still keep something like a subject object distinction?
+- What do you sense is going on there?
+- Is there a way in which Consciousness interacts with matter such that in me it’s taking this form in some intricate manner that I can’t quite understand?
+- What do you think about the kind of grand unifying Theory and whether you’d thought about it at all?
+- What does this really add to that?
+- What is the question to which the answer is the free energy principle?
+- What is it adding?
+- What would it mean for the hemispheric theory to be a metaphor?
+- How do you integrate the rest into the picture of intuition?
+- What do you think the relationship is between the brain and historical events?
+- What do you think will happen in the future regarding these scientific narratives?
+- Do you think reality itself always comes home to roost and we bite back?

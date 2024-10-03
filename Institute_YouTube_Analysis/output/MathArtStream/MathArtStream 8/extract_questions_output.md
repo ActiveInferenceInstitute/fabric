@@ -1,0 +1,7 @@
+- Shana, what is the gothic and Hector and anyone else, but what is the gothic?
+- How would people even set up to call Blake's work Gothic? Is it like a historical period or a vibe, or what is the gothic?
+- So, do you think from the is there a direct tie in to the way that he actively inferred that is actually maybe representative of the kind of scale-free over hundreds of years a window that maybe others who've written don't necessarily carry that through their work?
+- How do you think the doors of perception passage could also provide an opening to discuss the information processing model of human memory?
+- What do you think was the sort of insight that he had that whatever he was writing would continue to resonate and continue to motivate people to investigate?
+- How about particular kinds, what are those different kinds of things?
+- What is Blake's relationship to self? How does that play out in his duality of his own private life and his public vision for man?

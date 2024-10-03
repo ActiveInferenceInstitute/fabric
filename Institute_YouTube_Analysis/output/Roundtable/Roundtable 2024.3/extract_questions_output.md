@@ -1,0 +1,8 @@
+- do blue or Alex want to make any comments or say hello?
+- do you want to give any thoughts on this document or how we use it or or anything else about it?
+- is there anything else that either of you would like to add about the Symposium?
+- do you see some perspectives and we as institution will support you in this way?
+- let’s discuss?
+- are there any comments on anything?
+- is there anything else that you’d like to add about the Symposium?
+- do you have any closing thoughts?

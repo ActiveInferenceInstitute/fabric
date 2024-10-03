@@ -1,0 +1,11 @@
+{
+  "title": "ActInf GuestStream 086.1 ~ Biological Neurons Compete with Deep Reinforcement Learning",
+  "upload_date": "20240820",
+  "duration": 4090,
+  "view_count": 211,
+  "like_count": 12,
+  "channel": "Active Inference Institute",
+  "description": "\"Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld\"\nhttps://arxiv.org/abs/2405.16946\nMoein Khajehnejad, Forough Habibollahi, Aswin Paul, Adeel Razi, Brett J. Kagan\n\nHow do biological systems and machine learning algorithms compare in the number of samples required to show significant improvements in completing a task? We compared the learning efficiency of in vitro biological neural networks to the state-of-the-art deep reinforcement learning (RL) algorithms in a simplified simulation of the game `Pong'. Using DishBrain, a system that embodies in vitro neural networks with in silico computation using a high-density multi-electrode array, we contrasted the learning rate and the performance of these biological systems against time-matched learning from three state-of-the-art deep RL algorithms (i.e., DQN, A2C, and PPO) in the same game environment. This allowed a meaningful comparison between biological neural systems and deep RL. We find that when samples are limited to a real-world time course, even these very simple biological cultures outperformed deep RL algorithms across various game performance characteristics, implying a higher sample efficiency. Ultimately, even when tested across multiple types of information input to assess the impact of higher dimensional data input, biological neurons showcased faster learning than all deep reinforcement learning agents.\nhttps://doi.org/10.48550/arXiv.2405.16946\n[Submitted on 27 May 2024]\n\n\nActive Inference Institute information: \nWebsite: https://activeinference.org/ \nTwitter: https://twitter.com/InferenceActive \nDiscord: https://discord.gg/8VNKNp4jtx \nYouTube: https://www.youtube.com/c/ActiveInference/ \nActive Inference Livestreams: https://coda.io/@active-inference-institute/livestreams",
+  "is_live": false,
+  "live_status": "was_live"
+}

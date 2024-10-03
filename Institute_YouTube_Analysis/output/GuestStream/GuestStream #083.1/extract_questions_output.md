@@ -1,0 +1,14 @@
+- Susan, can you share how you came about moving from the experts on the stage to how do you tap into the need for mapping? What was that? Where did that arise from?
+- Can you, Daniel, is it possible for me to show my slides?
+- What is it that you’re going to be able to measure with this map?
+- How do I turn this into a map?
+- Where could you invest on the map, not where should we invest, but where could you invest?
+- What’s the most important thing in Paris?
+- How easy are they to implement and what’s the value to the sponsor and users?
+- Can you tell me more about the connection between the gaming map and the societal benefit?
+- What are the things that are within the realm of what we can possibly do?
+- What’s the return on investment?
+- What do we mean by you know what is the value?
+- What matters in sustainability? 
+- What could you invest?
+- Can you show me that?
