@@ -77,6 +77,7 @@ def download_audio_and_video(url, output_path, download_audio, download_video):
             log_message(f"Converting audio to MP3: {audio_filename}")
             subprocess.run(['ffmpeg', '-i', audio_filename.rsplit('.', 1)[0] + '.webm', 
                             '-acodec', 'libmp3lame', '-b:a', '192k', audio_filename])
+        log_message(f"Audio downloaded to: {audio_filename}")  # Added logging for audio download
 
     if download_video:
         # Download video (medium quality)
@@ -99,7 +100,8 @@ def download_audio_and_video(url, output_path, download_audio, download_video):
         
         # Extract screenshots every 2 seconds
         extract_screenshots(video_filename, output_path)
-    
+        log_message(f"Video downloaded to: {video_filename}")  # Added logging for video download
+
     return audio_filename, video_filename
 
 def extract_screenshots(video_file, output_path):
@@ -107,13 +109,20 @@ def extract_screenshots(video_file, output_path):
     os.makedirs(screenshot_dir, exist_ok=True)
     screenshot_path = os.path.join(screenshot_dir, "screenshot_%03d.png")
     log_message("Extracting screenshots every 2 seconds")
-    subprocess.run([
-        'ffmpeg',
-        '-i', video_file,
-        '-vf', 'fps=1/2',
-        screenshot_path
-    ], check=True)
-    log_message(f"Screenshots saved to: {screenshot_dir}")
+    try:
+        subprocess.run([
+            'ffmpeg',
+            '-i', video_file,
+            '-vf', 'fps=1/2',
+            screenshot_path
+        ], check=True)
+        log_message(f"Screenshots saved to: {screenshot_dir}")
+    except subprocess.CalledProcessError as e:
+        log_message(f"Error extracting screenshots: {e}")  # Added error logging
+        # Save error details
+        with open(os.path.join(output_path, "screenshot_error.md"), "w") as f:
+            f.write(f"Error: {str(e)}\n\nStderr:\n{e.stderr}")  # Added saving error details
+        log_message("Screenshot extraction error details saved.")  # Added logging
 
 def main(download_audio, download_video):
     # Process each YouTube URL

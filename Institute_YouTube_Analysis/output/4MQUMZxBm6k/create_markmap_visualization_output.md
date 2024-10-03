@@ -2,62 +2,61 @@ markmap:
   colorFreezeLevel: 2
 ---
 
-# Follow-Up on Math Art Stream 8
+# Follow-up on Math Art Stream 8
 
-## Context
+## Date: September 8, 2024
 
-- Date: September 8, 2024
-- Previous Stream: Math Art Stream 8 (September 6, 2024)
+### Context
+- Personal Channel Follow-up
+- Math Art Stream Series
+
+### Previous Session
+- Stream #8 on September 6, 2024
 - Participants: Shanon, Hector, Dean
-- Goal: Reflect on quotes and links from the presentation
+- Published slides and video links available
 
-## Main Themes
+### Objectives
+- Reflect on previous discussions
+- Explore omitted quotes and links
+- Encourage audience engagement
 
-### Math and Art Intersection
+### Key Themes
+- **Math and Art Intersection**
+  - Active inference
+  - William Blake's influence
 
-- **Edge of Math & Art**: Exploring the relationship between math, art, and active inference.
-- **William Blake**: Influential figure in art and philosophy.
+### William Blake's Influence
+- **Art Perspective**
+  - Whimsical view on art
+  - Gothic style influences
+- **Math and Science**
+  - Blake's critique of Newtonian views
+  - Geometry and its limitations
 
-### Blake's Perspectives
+### Discussion Points
+- Can we separate math and art?
+- Active inference in art creation
+- Classical vs modern interpretations of art
 
-- **Art & Science**: Blake's views on the duality of art and science.
-- **Gothic Influence**: Blake's works in the context of Gothic and Romanticism.
+### Blake's Works
+- **Gothic Influence**
+  - Connection to Romanticism
+  - Use of darkness and despair in art
+- **Philosophical Insights**
+  - Art as a reflection of societal issues
+  - Critique of scientific objectivity
 
 ### Active Inference
+- Definition and implications in art
+- Intersection with Blake's philosophy
 
-- **Definition**: Understanding how inference impacts perception and cognition.
-- **Application**: Exploring mathematical and artistic frameworks.
-
-## Key Questions
-
-- **What is Math Art?**: Can art and math be separated?
-- **Active Inference**: How does it redefine knowledge and perception?
-- **Gothic Themes**: What role does Gothicism play in Blake's art?
-
-## Further Exploration
-
-### Blake's Art
-
-- **Works**: Songs of Innocence, The Chimney Sweeper.
-- **Themes**: Death, God, imagination in society.
-
-### Active Inference and Cognition
-
-- **Implications**: How perception shapes reality and understanding.
-- **Mathematical Models**: Exploring geometry and its philosophical implications.
-
-### Future Directions
-
-- **Interdisciplinary Approach**: Combining math, art, and cognitive science.
-- **Community Engagement**: Inviting comments and discussions on the topics.
-
-## Conclusion
-
-- Open invitation for thoughts and reflections on the discussed themes.
+### Conclusion
+- Invitation for comments and questions
+- Encourage deeper exploration of themes discussed
 
 VISUAL EXPLANATION
-- Organized input into main themes and questions.
-- Used bullet points for clarity on key topics.
-- Highlighted William Blake's influence and active inference.
-- Structured exploration paths for further discussion.
-- Encouraged community engagement for reflections and questions.
+- Structured the follow-up around key themes and objectives.
+- Highlighted William Blake's influence on art and science.
+- Emphasized audience engagement and reflection on previous discussions.
+- Incorporated gothic and romantic influences in Blake's works.
+- Summarized active inference and its relation to art creation.

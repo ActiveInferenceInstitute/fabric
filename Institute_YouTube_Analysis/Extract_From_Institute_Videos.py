@@ -18,15 +18,29 @@ patterns = [
     "extract_wisdom_agents",
     "extract_predictions",
     "extract_questions",
-#    "solve_with_cot",
+    "solve_with_cot",
     "tweet",
-#    "write_essay",
+    "write_essay",
     "write_micro_essay",
     "write_hackerone_report",
     "create_quiz",
-#    "create_markmap_visualization",
-#    "create_mermaid_visualization",
-#    "capture_thinkers_work" 
+    "create_markmap_visualization",
+    "create_mermaid_visualization",
+    "analyze_presentation",
+    "clean_text",
+    "create_ai_jobs_analysis",
+    "create_art_prompt",
+    "create_keynote",
+    "create_logo",
+    "create_visualization",
+    "explain_project",
+    "explain_terms",
+    "find_hidden_message",
+    "get_wow_per_minute",
+    "summarize_legislation",
+    "to_flashcards",
+    "transcribe_minutes"
+    "capture_thinkers_work"
 ]
 
 def log_message(message):

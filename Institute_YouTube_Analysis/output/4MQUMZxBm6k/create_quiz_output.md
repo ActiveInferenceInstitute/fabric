@@ -1,33 +1,18 @@
 ---
-Subject: William Blake and the Intersection of Art, Mathematics, and Active Inference
+Subject: William Blake and Active Inference in Math Art
 
-* Learning objective: Explore William Blake's perspective on the relationship between art and mathematics.
-    - Question 1: How does Blake's concept of "single vision" relate to the limitations of mathematical reasoning in his critique of Newtonian science?
-    - Answer 1: 
+* Learning objective: Explore William Blake's perspective on art and science.
+    - Question 1: How does Blake's concept of "single vision" contrast with the notion of "double or triple vision" in the context of his critique on Newtonian science?
+    - Question 2: In what ways does Blake's portrayal of the divine challenge the scientific rationalism of his time, particularly in his works such as the "Books of Urizen"?
+    - Question 3: Discuss the significance of "active inference" in Blake's artistic process and how it relates to his understanding of perception and reality.
 
-    - Question 2: In what ways does Blake's artistic practice challenge traditional notions of mathematical representation and structure?
-    - Answer 2: 
+* Learning objective: Analyze the interplay between Gothicism and Romanticism in Blake's work.
+    - Question 1: How does Blake's use of Gothic themes enhance the emotional depth of his poetry and visual art within the Romantic period?
+    - Question 2: What are the key characteristics of Gothicism that Blake incorporates into his works, and how do these elements reflect the societal issues of his time?
+    - Question 3: Evaluate the impact of Blake's Gothic style on the representation of themes such as innocence, experience, and despair in his major works.
 
-    - Question 3: Discuss the implications of Blake's idea of "four-fold vision" in the context of mathematical abstraction and artistic interpretation.
-    - Answer 3: 
-
-* Learning objective: Analyze Blake's Gothic influences in his art and poetry.
-    - Question 1: How does Blake's use of Gothic elements reflect the themes of despair and innocence in his works, particularly in "Songs of Innocence and of Experience"?
-    - Answer 1: 
-
-    - Question 2: What role does the Gothic style play in shaping Blake's exploration of the human condition and societal critique?
-    - Answer 2: 
-
-    - Question 3: In what ways can Blake's Gothic imagination be seen as a precursor to modern psychological interpretations of art and literature?
-    - Answer 3: 
-
-* Learning objective: Investigate the concept of active inference in relation to Blake's artistic philosophy.
-    - Question 1: How does Blake's understanding of perception challenge conventional scientific paradigms of knowledge acquisition and cognitive processing?
-    - Answer 1: 
-
-    - Question 2: Discuss the relevance of active inference in interpreting Blake's artistic methods and their implications for cognitive science.
-    - Answer 2: 
-
-    - Question 3: What connections can be drawn between Blake's views on imagination and the contemporary theories of active inference and embodied cognition?
-    - Answer 3: 
+* Learning objective: Understand the concept of active inference and its application in cognitive science as it relates to Blake's art.
+    - Question 1: How can the principles of active inference be applied to interpret the cognitive processes underlying Blake's artistic expression?
+    - Question 2: Discuss the implications of viewing Blake's works through the lens of active inference for our understanding of human perception and creativity.
+    - Question 3: In what ways does Blake's exploration of individual perception challenge traditional cognitive theories, and how does this inform contemporary discussions in cognitive science?
 ---

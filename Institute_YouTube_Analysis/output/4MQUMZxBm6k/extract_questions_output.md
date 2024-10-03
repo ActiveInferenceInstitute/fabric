@@ -1,20 +1,16 @@
 - what might Blake have to do with any of this other than just whimsical possibility?
 - what is math art even if we can or can we separate out art and math?
-- what is active inference?
+- what is active inference classic questions?
 - would it be defined by its process or by the outcome?
 - is it about making an etching or the fact that the etching was completed?
 - is it about one knowing that they were making an etching?
 - is it about others like art and decoration?
 - are there conditions upon that?
-- if it’s pencil it’s always art but if it’s pen it’s sometimes art or if a robotic arm did it it would never be or it would be sometimes?
+- if it’s pencil it’s always art but if it’s pen it’s sometimes art?
+- if a robotic arm did it would it never be or it would be sometimes?
 - how did that become our goalposts and rules and norms and priors?
-- what is gothic?
+- is it really that way for Blake?
 - how could this connect with the four-fold particular partition in the free energy principle?
-- what does it mean that this fourfold is explaining or accounting or mapping this and then this one is mapping to this?
 - how could it connect with other four-way partitions?
-- what if this kind of four-way four-fold concordance?
 - what is the real meaning or value or implication of any kind of numerical concordance or difference?
-- how can something within a linear system within a digital system for example also have this unity’s plural at minimum multiple character?
-- how can a narrative exist outside of its rhetorical structures?
-- how can the text continue its narrative trajectory when that movement is not grounded in temporality?
-- why go on?
+- why would I keep reading this book?
